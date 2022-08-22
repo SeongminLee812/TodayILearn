@@ -32,6 +32,20 @@ in_channels = 1, out_channels=1, kernel_size =3(2x4라면 kernel_size = (2, 4))
 
 ## Convolution의 Output 크기
 ![[Pasted image 20220821204948.png]]
+- output 계산하기
+	- input image size : 64x64
+	- filter size : 7x7
+	- stride = 2
+	- padding = 0
+	-
+	```
+	
+
+
+
+	```
+
+
 
 ## Neuron과 Convolution
 Convolution filter => Perceptron의 웨이트 값으로 들어감
