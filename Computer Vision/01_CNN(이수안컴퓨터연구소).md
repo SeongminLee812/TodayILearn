@@ -140,3 +140,28 @@
 
 -   특징 맵 각각의 평균값을 출력하는 것이므로, 특성맵에 있는 대부분의 정보를 잃음
 -   출력층에는 유용할 수 있음
+
+
+# 완전 연결 계층(Fully-Connected Layer)
+
+-   입력으로 받은 텐서를 1차원으로 평면화(flatten) 함
+-   밀집 계층(Dense Layer)라고도 함
+-   일반적으로 분류기로서 네트워크의 마지막 계층에서 사용
+
+
+# 유효 수용 영역(ERF, Effective Receptive Field)
+
+-   입력 이미지에서 거리가 먼 요소를 상호 참조하여 결합하여 네트워크 능력에 영향을 줌
+    
+-   입력 이미지의 영역을 정의해 주어진 계층을 위한 뉴런의 활성화에 영향을 미침
+    
+-   한 계층의 필터 크기나 윈도우 크기로 불리기 때문에 RF(receptive field, 수용 영역)이라는 용어를 흔히 볼 수 있음
+    
+    ![](https://wiki.math.uwaterloo.ca/statwiki/images/8/8c/understanding_ERF_fig0.png)
+-   RF의 중앙에 위치한 픽셀은 주변에 있는 픽셀보다 더 높은 가중치를 가짐
+    
+    -   중앙부에 위치한 픽셀은 여러 개의 계층을 전파한 값
+    -   중앙부에 있는 픽셀은 주변에 위치한 픽셀보다 더 많은 정보를 가짐
+-   가우시안 분포를 따름
+    
+    ![](https://www.researchgate.net/publication/316950618/figure/fig4/AS:495826810007552@1495225731123/The-receptive-field-of-each-convolution-layer-with-a-3-3-kernel-The-green-area-marks.png)
