@@ -1,0 +1,137 @@
+{
+  "main": {
+    "id": "deb19951932df3d5",
+    "type": "split",
+    "children": [
+      {
+        "id": "3fd042b95617c08c",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Computer Vision/01_CNN(이수안컴퓨터연구소).md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f72105e26d3d6736",
+    "type": "split",
+    "children": [
+      {
+        "id": "241280e62b93098d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c30ba011c7690bc0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "e231217888f5cd4d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#시각화",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f928fd9492a40ea0",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8171c1653afb67da",
+    "type": "split",
+    "children": [
+      {
+        "id": "b34f21b48b731885",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b9f5fd7b94cf67e2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Computer Vision/01_CNN(이수안컴퓨터연구소).md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "55d300481a841719",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Computer Vision/01_CNN(이수안컴퓨터연구소).md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5e23551737bda11f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3f8d896e27a646e6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Computer Vision/01_CNN(이수안컴퓨터연구소).md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "3fd042b95617c08c",
+  "lastOpenFiles": [
+    "Untitled.md",
+    "Computer Vision/01_CNN(이수안컴퓨터연구소).md"
+  ]
+}
