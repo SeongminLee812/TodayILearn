@@ -165,3 +165,27 @@
 -   가우시안 분포를 따름
     
     ![](https://www.researchgate.net/publication/316950618/figure/fig4/AS:495826810007552@1495225731123/The-receptive-field-of-each-convolution-layer-with-a-3-3-kernel-The-green-area-marks.png)
+
+
+
+## Fashion MNIST
+
+![](https://www.tensorflow.org/tutorials/keras/classification_files/output_oZTImqg_CaW1_0.png?hl=ko)
+
+```
+import datetime
+import numpy as np
+import tensorflow as tf
+import matplotlib.pyplot as pyplot
+plt.style.use('seaborn')
+  
+
+from tensorflow.keras import Model
+from tensorflow.keras.models import Sequential
+from tensorflow.keras.utils import to_categorical
+from tensorflow.keras.datasets.fashion_mnist import load_data
+from tensorflow.keras.preprocessing.image import ImageDataGenerator
+from tensorflow.keras.layers import Dense, Flatten, Conv2D, MaxPool2D, Dropout, Input
+```
+
+
