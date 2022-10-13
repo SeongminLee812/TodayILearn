@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "마크다운_기초.md",
+            "file": "모두의 인공지능 기초수학/part1 기초수학.md",
             "mode": "source",
             "source": false
           }
@@ -61,7 +61,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "8171c1653afb67da",
@@ -77,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "마크다운_기초.md",
+                "file": "모두의 인공지능 기초수학/part1 기초수학.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "마크다운_기초.md",
+                "file": "모두의 인공지능 기초수학/part1 기초수학.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "마크다운_기초.md"
+                "file": "모두의 인공지능 기초수학/part1 기초수학.md"
               }
             }
           }
@@ -131,12 +132,15 @@
   },
   "active": "3fd042b95617c08c",
   "lastOpenFiles": [
+    "모두의 인공지능 기초수학/part1 기초수학.md",
+    "3Blue1Brown/신경망이란 무엇인가.md",
+    "Untitled 1.md",
+    "마크다운_기초.md",
     "밑바닥부터_시작하는_딥러닝/퍼셉트론.md",
     "efficientNet-lite0 (성민) 580b8e4958ca4f2da6e0cf242b191f55/Untitled 1.png",
     "efficientNet-lite0 (성민) 580b8e4958ca4f2da6e0cf242b191f55/Untitled.png",
     "efficientNet-lite0 (성민) 580b8e4958ca4f2da6e0cf242b191f55/test_F2022061000002781-1.jpg",
     "Computer_Vision/01_CNN(이수안컴퓨터연구소).md",
-    "Computer Vision/01_CNN(이수안컴퓨터연구소).md",
-    "Untitled.md"
+    "Computer Vision/01_CNN(이수안컴퓨터연구소).md"
   ]
 }
