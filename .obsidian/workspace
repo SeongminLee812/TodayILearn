@@ -61,8 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "8171c1653afb67da",
@@ -121,16 +120,23 @@
                 "file": "모두의 인공지능 기초수학/chapter2 함수.md"
               }
             }
+          },
+          {
+            "id": "db73d1a517c33c06",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
-  "active": "3fd042b95617c08c",
+  "active": "3f8d896e27a646e6",
   "lastOpenFiles": [
     "2022-08-11.md",
     "모두의 인공지능 기초수학/chapter2 함수.md",
