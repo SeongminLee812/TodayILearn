@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "모두의 인공지능 기초수학/chapter3 직선과 기울기.md",
+            "file": "모두의 인공지능 기초수학/chapter4 지수와 제곱근.md",
             "mode": "source",
             "source": false
           }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "모두의 인공지능 기초수학/chapter3 직선과 기울기.md",
+                "file": "모두의 인공지능 기초수학/chapter4 지수와 제곱근.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "모두의 인공지능 기초수학/chapter3 직선과 기울기.md",
+                "file": "모두의 인공지능 기초수학/chapter4 지수와 제곱근.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "모두의 인공지능 기초수학/chapter3 직선과 기울기.md"
+                "file": "모두의 인공지능 기초수학/chapter4 지수와 제곱근.md"
               }
             }
           },
@@ -139,6 +139,7 @@
   },
   "active": "3fd042b95617c08c",
   "lastOpenFiles": [
+    "모두의 인공지능 기초수학/chapter3 직선과 기울기.md",
     "모두의 인공지능 기초수학/chapter2 함수.md",
     "모두의 인공지능 기초수학/chapter1 방정식과 부등식.md",
     "밑바닥부터_시작하는_딥러닝/퍼셉트론.md",
@@ -147,7 +148,6 @@
     "efficientNet-lite0 (성민) 580b8e4958ca4f2da6e0cf242b191f55/Untitled 1.png",
     "efficientNet-lite0 (성민) 580b8e4958ca4f2da6e0cf242b191f55/Untitled.png",
     "efficientNet-lite0 (성민) 580b8e4958ca4f2da6e0cf242b191f55/test_F2022061000002781-1.jpg",
-    "2022-08-11.md",
-    "3Blue1Brown/신경망이란 무엇인가.md"
+    "2022-08-11.md"
   ]
 }
