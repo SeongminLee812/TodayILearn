@@ -7,11 +7,9 @@
         "id": "3fd042b95617c08c",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "image",
           "state": {
-            "file": "모두의 인공지능 기초수학/chapter5 다항식과 기하학.md",
-            "mode": "source",
-            "source": false
+            "file": "Pasted image 20221013172642.png"
           }
         }
       }
@@ -61,8 +59,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "8171c1653afb67da",
@@ -78,7 +75,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "모두의 인공지능 기초수학/chapter5 다항식과 기하학.md",
+                "file": "Pasted image 20221013172642.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +92,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "모두의 인공지능 기초수학/chapter5 다항식과 기하학.md",
+                "file": "Pasted image 20221013172642.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "모두의 인공지능 기초수학/chapter5 다항식과 기하학.md"
+                "file": "Pasted image 20221013172642.png"
               }
             }
           },
@@ -139,15 +136,15 @@
   },
   "active": "3fd042b95617c08c",
   "lastOpenFiles": [
-    "모두의 인공지능 기초수학/chapter4 지수와 제곱근.md",
-    "모두의 인공지능 기초수학/chapter3 직선과 기울기.md",
-    "모두의 인공지능 기초수학/chapter2 함수.md",
-    "모두의 인공지능 기초수학/chapter1 방정식과 부등식.md",
-    "밑바닥부터_시작하는_딥러닝/퍼셉트론.md",
-    "케라스창시자에게배우는딥러닝/screenshot/batchsize_discription.jpg",
-    "Computer_Vision/01_CNN(이수안컴퓨터연구소).md",
-    "efficientNet-lite0 (성민) 580b8e4958ca4f2da6e0cf242b191f55/Untitled 1.png",
-    "efficientNet-lite0 (성민) 580b8e4958ca4f2da6e0cf242b191f55/Untitled.png",
-    "efficientNet-lite0 (성민) 580b8e4958ca4f2da6e0cf242b191f55/test_F2022061000002781-1.jpg"
+    "Pasted image 20221013161455.png",
+    "Pasted image 20220827212048.png",
+    "Pasted image 20220827211851.png",
+    "Pasted image 20220811152452.png",
+    "Pasted image 20220811152127.png",
+    "Pasted image 20221013162308.png",
+    "Pasted image 20221013171459.png",
+    "Pasted image 20221013172034.png",
+    "Pasted image 20221013173451.png",
+    "Pasted image 20221013173335.png"
   ]
 }
