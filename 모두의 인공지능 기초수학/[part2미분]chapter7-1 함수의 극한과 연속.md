@@ -32,6 +32,32 @@ $f(x)=\frac{x^2-1}{{x-1}}$ 인 경우 x=1이 될 수 없다(0으로 나눔)
 $\infty, -\infty$에서의 함수의 극한 (수렴)
 함수 f(x)의 값이 일정한 값 a에 한없이 가까워진다(수렴한다)
 ![[Pasted image 20221015113608.png]]
+![[Pasted image 20221015114143.png]]
+$\infty, -\infty$에서의 함수의 극한(수렴) 예제
+![[Pasted image 20221015114424.png]]
+분자와 분모에 둘 다 $\infty$가 있으면 분모의 최고차 항으로 분모와 분자를 나눠준다
+$\frac{1}{x}$로 분자 분모 둘다 곱해줌 => $2- \frac{1}{x}$         $\frac{1}{x}$는 0으로 수렴(x가 무한대로 수렴하니까 점점작아짐)
+![[Pasted image 20221015114556.png]]
 
+### 함수의 발산
+- 함수의 발산이란 함수 f(x)에서 함수 값이 무한히 커지는 것을 말한다.
+- 양의 무한대 발산, 음의 무한대 발산과 진동이 있다.
 
+__양의 무한대 발산__
+f(x)의 값이 한없이 커지면 f(x)는 양의 무한대로 발산한다고 한다
+$\displaystyle x->a일때, f(x) -> \infty 또는 \lim_{x\to a}f(x) = \infty$
 
+__음의 무한대발산__
+f(x)의 값이 음수이면서 그 절갯값이 한없이 커지면 f(x)는 음의 무한대로 발산한다고 한다.
+$\displaystyle x->a일때, f(x) -> -\infty 또는 \lim_{x\to a}f(x) = -\infty$
+
+__함수의 발산 예제__
+1.
+
+![[Pasted image 20221015115323.png]]
+x=0에서의 극한값은 존재하지 않는다.
+
+2.
+![[Pasted image 20221015115503.png]]
+$\displaystyle \lim_{x\to +0}\frac{1}{|x|}=\infty$ 
+$\displaystyle \lim_{x\to -0}\frac{1}{|x|}=\infty$   ==> $\displaystyle \lim_{x\to 0}\frac{1}{|x|}=\infty$ 
