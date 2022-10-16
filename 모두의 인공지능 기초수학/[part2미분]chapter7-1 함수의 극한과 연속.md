@@ -48,7 +48,7 @@ f(x)의 값이 한없이 커지면 f(x)는 양의 무한대로 발산한다고 �
 $\displaystyle x->a일때, f(x) -> \infty 또는 \lim_{x\to a}f(x) = \infty$
 
 __음의 무한대발산__
-f(x)의 값이 음수이면서 그 절갯값이 한없이 커지면 f(x)는 음의 무한대로 발산한다고 한다.
+f(x)의 값이 음수이면서 그 절댓값이 한없이 커지면 f(x)는 음의 무한대로 발산한다고 한다.
 $\displaystyle x->a일때, f(x) -> -\infty 또는 \lim_{x\to a}f(x) = -\infty$
 
 __함수의 발산 예제__
@@ -61,3 +61,11 @@ x=0에서의 극한값은 존재하지 않는다.
 ![[Pasted image 20221015115503.png]]
 $\displaystyle \lim_{x\to +0}\frac{1}{|x|}=\infty$ 
 $\displaystyle \lim_{x\to -0}\frac{1}{|x|}=\infty$   ==> $\displaystyle \lim_{x\to 0}\frac{1}{|x|}=\infty$ 
+
+
+# 함수의 진동
+__함수의 진동__ : 극한으로 다가갈수록 끊임없이 진동하는 것
+![[Pasted image 20221016124855.png]]
+
+# 함수의 좌극한
+__함수의 좌극한__ : 함수 f(x)에서 x가 a보다 작으면서
