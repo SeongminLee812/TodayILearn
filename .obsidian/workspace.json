@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "7e35b0674f347857",
+        "id": "bcb0f864fc024fb1",
         "type": "tabs",
         "children": [
           {
-            "id": "0a7137e7f791e807",
+            "id": "ca96e7a421604d3a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "모두의 인공지능 기초수학/[part2미분]chapter7-1 함수의 극한과 연속.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -86,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "모두의 인공지능 기초수학/[part2미분]chapter7-1 함수의 극한과 연속.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "모두의 인공지능 기초수학/[part2미분]chapter7-1 함수의 극한과 연속.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "모두의 인공지능 기초수학/[part2미분]chapter7-1 함수의 극한과 연속.md"
-              }
+              "state": {}
             }
           },
           {
@@ -149,10 +141,10 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "0a7137e7f791e807",
+  "active": "ca96e7a421604d3a",
   "lastOpenFiles": [
-    "Pasted image 20221015113608.png",
     "모두의 인공지능 기초수학/[part2미분]chapter7-1 함수의 극한과 연속.md",
+    "Pasted image 20221015113608.png",
     "모두의 인공지능 기초수학/chapter6 지수함수와 로그함수.md",
     "모두의 인공지능 기초수학/수식작성.md",
     "모두의 인공지능 기초수학/chapter5 다항식과 기하학.md",
