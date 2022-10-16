@@ -9,7 +9,7 @@ __미분__ : 한 점에서의 기울기
 $기울기 = \frac{y의 증가량}{x의 증가량} = \frac{f(a+h)-f(a)}{(a+h)-a}$
 미분 : 두 점의 기울기이나 두 점사이의 거리가 0에 수렴
 
-$기울기 = \frac{y의 증가량}{x의 증가량} = \frac{f(a+h)-f(a)}{(a+h)-a}$ => $\frac{f(a+h)-f(a)}{h->0}$
+$\displaystyle 기울기 = \frac{y의 증가량}{x의 증가량} = \frac{f(a+h)-f(a)}{(a+h)-a}$ => $\frac{f(a+h)-f(a)}{h->0}$
 	$\displaystyle \lim_{x의 증가량\to0} \frac{y의증가량}{x의증가량}=\lim_{h\to0} \frac{f(a+h)-f(a)}{(a+h)-a}$
 
 ![[Pasted image 20221015112102.png]]

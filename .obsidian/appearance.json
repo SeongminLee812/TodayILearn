@@ -1,4 +1,5 @@
 {
   "theme": "system",
-  "accentColor": ""
+  "accentColor": "",
+  "baseFontSize": 17
 }

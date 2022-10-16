@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "모두의 인공지능 기초수학/[part2미분]chapter7-1 함수의 극한과 연속.md",
+                "file": "모두의 인공지능 기초수학/[part2미분]chapter8 다항함수의 미분.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "8171c1653afb67da",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "모두의 인공지능 기초수학/[part2미분]chapter7-1 함수의 극한과 연속.md",
+                "file": "모두의 인공지능 기초수학/[part2미분]chapter8 다항함수의 미분.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "모두의 인공지능 기초수학/[part2미분]chapter7-1 함수의 극한과 연속.md",
+                "file": "모두의 인공지능 기초수학/[part2미분]chapter8 다항함수의 미분.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "모두의 인공지능 기초수학/[part2미분]chapter7-1 함수의 극한과 연속.md"
+                "file": "모두의 인공지능 기초수학/[part2미분]chapter8 다항함수의 미분.md"
               }
             }
           },
@@ -151,9 +152,9 @@
   "active": "1976e07947aaa0b4",
   "lastOpenFiles": [
     "모두의 인공지능 기초수학/[part2미분]chapter7-2 함수의 극한과 연속.md",
+    "모두의 인공지능 기초수학/[part2미분]chapter7-1 함수의 극한과 연속.md",
     "모두의 인공지능 기초수학/[part2미분]chapter8 다항함수의 미분.md",
     "모두의 인공지능 기초수학/수식작성.md",
-    "모두의 인공지능 기초수학/[part2미분]chapter7-1 함수의 극한과 연속.md",
     "모두의 인공지능 기초수학/chapter6 지수함수와 로그함수.md",
     "Pasted image 20221015113608.png",
     "모두의 인공지능 기초수학/chapter5 다항식과 기하학.md",
