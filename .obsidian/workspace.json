@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d669ef644234f34a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "모두의 인공지능 기초수학/part2미분_chapter9-2 도함수의활용.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "모두의 인공지능 기초수학/part2미분_chapter9 도함수의활용.md",
+                "file": "모두의 인공지능 기초수학/part2미분_chapter9-2 도함수의활용.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "모두의 인공지능 기초수학/part2미분_chapter9 도함수의활용.md",
+                "file": "모두의 인공지능 기초수학/part2미분_chapter9-2 도함수의활용.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "모두의 인공지능 기초수학/part2미분_chapter9 도함수의활용.md"
+                "file": "모두의 인공지능 기초수학/part2미분_chapter9-2 도함수의활용.md"
               }
             }
           },
@@ -149,10 +162,10 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "1976e07947aaa0b4",
+  "active": "d669ef644234f34a",
   "lastOpenFiles": [
-    "모두의 인공지능 기초수학/수식작성.md",
     "모두의 인공지능 기초수학/part2미분_chapter9 도함수의활용.md",
+    "모두의 인공지능 기초수학/수식작성.md",
     "모두의 인공지능 기초수학/part2미분_chapter8 다항함수의 미분.md",
     "모두의 인공지능 기초수학/part2미분_chapter7-2 함수의 극한과 연속.md",
     "모두의 인공지능 기초수학/part2미분_chapter7-1 함수의 극한과 연속.md",
