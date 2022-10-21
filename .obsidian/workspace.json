@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "모두의 인공지능 기초수학/part4확률과통계_chapter15-2 통계.md",
+                "file": "모두의 인공지능 기초수학/part3선형대수_chapter11-2행렬변환.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,8 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "8171c1653afb67da",
@@ -111,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "모두의 인공지능 기초수학/part4확률과통계_chapter15-2 통계.md",
+                "file": "모두의 인공지능 기초수학/part3선형대수_chapter11-2행렬변환.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "모두의 인공지능 기초수학/part4확률과통계_chapter15-2 통계.md",
+                "file": "모두의 인공지능 기초수학/part3선형대수_chapter11-2행렬변환.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "모두의 인공지능 기초수학/part4확률과통계_chapter15-2 통계.md"
+                "file": "모두의 인공지능 기초수학/part3선형대수_chapter11-2행렬변환.md"
               }
             }
           },
@@ -176,15 +175,15 @@
   },
   "active": "2438e612d54ca7d0",
   "lastOpenFiles": [
+    "모두의 인공지능 기초수학/part3선형대수_chapter12 상호좌표계.md",
+    "모두의 인공지능 기초수학/part4확률과통계_chapter13 순열과 조합.md",
+    "모두의 인공지능 기초수학/part4확률과통계_chapter15-2 통계.md",
     "모두의 인공지능 기초수학/part4확률과통계_chapter15-1 통계.md",
     "모두의 인공지능 기초수학/수식작성.md",
     "모두의 인공지능 기초수학/part4확률과통계_chapter14 확률.md",
-    "모두의 인공지능 기초수학/part4확률과통계_chapter13 순열과 조합.md",
-    "모두의 인공지능 기초수학/part3선형대수_chapter12 상호좌표계.md",
     "모두의 인공지능 기초수학/part3선형대수_chapter11-2행렬변환.md",
     "모두의 인공지능 기초수학/part3선형대수_chapter11-1행렬변환.md",
     "모두의 인공지능 기초수학/part3선형대수_chapter10-4 벡터와 공간.md",
-    "모두의 인공지능 기초수학/chapter4 지수와 제곱근.md",
-    "모두의 인공지능 기초수학/part3선형대수_chapter10-3 벡터와 공간.md"
+    "모두의 인공지능 기초수학/chapter4 지수와 제곱근.md"
   ]
 }

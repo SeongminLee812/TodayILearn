@@ -85,7 +85,7 @@ $AB=BA=E$       $B=A^{-1}$
 
 __역행렬 공식__
 ![[Pasted image 20221021130227.png]]
-이때, ab-bc=0이면 A의 역행렬은 없다.
+이때, ad-bc=0이면 A의 역행렬은 없다.
 $A=\begin{bmatrix}3&4\\6&8\end{bmatrix}$ => 역행렬 존재 X
 
 __역행렬의 성질__
