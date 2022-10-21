@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5365c938c2c54016",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "모두의 인공지능 기초수학/part3선형대수_chapter12 상호좌표계.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -99,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "모두의 인공지능 기초수학/part3선형대수_chapter11-2행렬변환.md",
+                "file": "모두의 인공지능 기초수학/part3선형대수_chapter12 상호좌표계.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "모두의 인공지능 기초수학/part3선형대수_chapter11-2행렬변환.md",
+                "file": "모두의 인공지능 기초수학/part3선형대수_chapter12 상호좌표계.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "모두의 인공지능 기초수학/part3선형대수_chapter11-2행렬변환.md"
+                "file": "모두의 인공지능 기초수학/part3선형대수_chapter12 상호좌표계.md"
               }
             }
           },
@@ -162,17 +174,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "0e19341fa0d335f1",
+  "active": "5365c938c2c54016",
   "lastOpenFiles": [
     "모두의 인공지능 기초수학/수식작성.md",
-    "모두의 인공지능 기초수학/part3선형대수_chapter11-1행렬변환.md",
     "모두의 인공지능 기초수학/part3선형대수_chapter11-2행렬변환.md",
+    "모두의 인공지능 기초수학/part3선형대수_chapter12 상호좌표계.md",
+    "모두의 인공지능 기초수학/part3선형대수_chapter11-1행렬변환.md",
     "모두의 인공지능 기초수학/part3선형대수_chapter10-4 벡터와 공간.md",
     "모두의 인공지능 기초수학/chapter4 지수와 제곱근.md",
     "모두의 인공지능 기초수학/part3선형대수_chapter10-3 벡터와 공간.md",
     "모두의 인공지능 기초수학/part3선형대수_chapter10-2 벡터와 공간.md",
     "모두의 인공지능 기초수학/part3선형대수_chapter10 벡터와 공간.md",
-    "밑바닥부터_시작하는_딥러닝/퍼셉트론.md",
-    "모두의 인공지능 기초수학/part2미분_chapter9-2 도함수의활용.md"
+    "밑바닥부터_시작하는_딥러닝/퍼셉트론.md"
   ]
 }
