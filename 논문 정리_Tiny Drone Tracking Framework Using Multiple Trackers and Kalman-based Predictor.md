@@ -9,7 +9,7 @@ https://journals.riverpublishers.com › download
 
 ](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwiJzNLVnvP6AhVJyGEKHU0IDNcQFnoECA4QAQ&url=https%3A%2F%2Fjournals.riverpublishers.com%2Findex.php%2FJWE%2Farticle%2Fdownload%2F5455%2F10209%2F37913&usg=AOvVaw3XZ1BoYl9eL7LidVrUKYW_)
 
-
+경희대학교 김휘용 교수님
 ## 1. Introduction
 1. point-based tracking method
 	- feature point로 움직이는 물체를 tracking
