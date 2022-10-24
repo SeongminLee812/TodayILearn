@@ -4,59 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "a6a65ea603241c8b",
+        "id": "10c68e3dd4c31280",
         "type": "tabs",
         "children": [
           {
-            "id": "8c0310da592f426a",
+            "id": "b7000efb8d805afa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "모두의 인공지능 기초수학/part4확률과통계_chapter15-1 통계.md",
+                "file": "KMOOC_인공지능을위한알고리즘과자료구조/1강 자료구조알고리즘의 정의 및 강좌소개.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "2438e612d54ca7d0",
+            "id": "dd70d5f2889a83bf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "모두의 인공지능 기초수학/part4확률과통계_chapter15-2 통계.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "348606ded953ed06",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "논문 정리_Tiny Drone Tracking Framework Using Multiple Trackers and Kalman-based Predictor.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8c30afecd331448a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "모두의 인공지능 기초수학/수식작성.md",
+                "file": "KMOOC_인공지능을위한알고리즘과자료구조/2강 강좌의 목표와 실습환경.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -106,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "8171c1653afb67da",
@@ -123,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "논문 정리_Tiny Drone Tracking Framework Using Multiple Trackers and Kalman-based Predictor.md",
+                "file": "KMOOC_인공지능을위한알고리즘과자료구조/2강 강좌의 목표와 실습환경.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "논문 정리_Tiny Drone Tracking Framework Using Multiple Trackers and Kalman-based Predictor.md",
+                "file": "KMOOC_인공지능을위한알고리즘과자료구조/2강 강좌의 목표와 실습환경.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "논문 정리_Tiny Drone Tracking Framework Using Multiple Trackers and Kalman-based Predictor.md"
+                "file": "KMOOC_인공지능을위한알고리즘과자료구조/2강 강좌의 목표와 실습환경.md"
               }
             }
           },
@@ -186,17 +161,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "348606ded953ed06",
+  "active": "dd70d5f2889a83bf",
   "lastOpenFiles": [
-    "모두의 인공지능 기초수학/part4확률과통계_chapter15-2 통계.md",
-    "모두의 인공지능 기초수학/part4확률과통계_chapter15-1 통계.md",
-    "모두의 인공지능 기초수학/part4확률과통계_chapter14 확률.md",
-    "모두의 인공지능 기초수학/part4확률과통계_chapter13 순열과 조합.md",
-    "모두의 인공지능 기초수학/part3선형대수_chapter12 상호좌표계.md",
-    "모두의 인공지능 기초수학/part3선형대수_chapter11-2행렬변환.md",
+    "스크린샷 2022-10-15 10.41.01.png",
+    "KMOOC_인공지능을위한알고리즘과자료구조/2강 강좌의 목표와 실습환경.md",
+    "KMOOC_인공지능을위한알고리즘과자료구조/1강 자료구조알고리즘의 정의 및 강좌소개.md",
+    "KMOOC_인공지능을위한알고리즘과자료구조/Pasted image 20221024165451.png",
     "모두의 인공지능 기초수학/수식작성.md",
-    "모두의 인공지능 기초수학/part3선형대수_chapter11-1행렬변환.md",
-    "모두의 인공지능 기초수학/part3선형대수_chapter10-4 벡터와 공간.md",
-    "모두의 인공지능 기초수학/chapter4 지수와 제곱근.md"
+    "efficientNet-lite0 (성민) 580b8e4958ca4f2da6e0cf242b191f55/test_F2022061000002781-1.jpg",
+    "모두의 인공지능 기초수학/part4확률과통계_chapter15-1 통계.md",
+    "모두의 인공지능 기초수학/part4확률과통계_chapter15-2 통계.md",
+    "논문 정리_Tiny Drone Tracking Framework Using Multiple Trackers and Kalman-based Predictor.md",
+    "모두의 인공지능 기초수학/part4확률과통계_chapter14 확률.md"
   ]
 }
