@@ -4,35 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "10c68e3dd4c31280",
+        "id": "040ed60ecc5d2ab3",
         "type": "tabs",
         "children": [
           {
-            "id": "b7000efb8d805afa",
+            "id": "373f8b1056ec01ee",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KMOOC_인공지능을위한알고리즘과자료구조/1강 자료구조알고리즘의 정의 및 강좌소개.md",
+                "file": "KMOOC_인공지능을위한알고리즘과자료구조/2강 강좌의 목표와 실습환경.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "dd70d5f2889a83bf",
+            "id": "4f973bc536858275",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "모두의 인공지능 기초수학/part3선형대수_chapter10-2 벡터와 공간.md",
+                "file": "KMOOC_인공지능을위한알고리즘과자료구조/3-1_트리자료구조.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3f13b6994d64d9aa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "KMOOC_인공지능을위한알고리즘과자료구조/3-2_그래프.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -82,7 +94,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "8171c1653afb67da",
@@ -98,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "모두의 인공지능 기초수학/part3선형대수_chapter10-2 벡터와 공간.md",
+                "file": "KMOOC_인공지능을위한알고리즘과자료구조/3-2_그래프.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "모두의 인공지능 기초수학/part3선형대수_chapter10-2 벡터와 공간.md",
+                "file": "KMOOC_인공지능을위한알고리즘과자료구조/3-2_그래프.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "모두의 인공지능 기초수학/part3선형대수_chapter10-2 벡터와 공간.md"
+                "file": "KMOOC_인공지능을위한알고리즘과자료구조/3-2_그래프.md"
               }
             }
           },
@@ -161,17 +174,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "dd70d5f2889a83bf",
+  "active": "3f13b6994d64d9aa",
   "lastOpenFiles": [
-    "모두의 인공지능 기초수학/part3선형대수_chapter10 벡터와 공간.md",
+    "KMOOC_인공지능을위한알고리즘과자료구조/3-1_트리자료구조.md",
     "KMOOC_인공지능을위한알고리즘과자료구조/2강 강좌의 목표와 실습환경.md",
-    "스크린샷 2022-10-15 10.41.01.png",
+    "KMOOC_인공지능을위한알고리즘과자료구조/2-2_스택과 큐.md",
+    "KMOOC_인공지능을위한알고리즘과자료구조/2-1_배열과 리스트.md",
     "KMOOC_인공지능을위한알고리즘과자료구조/1강 자료구조알고리즘의 정의 및 강좌소개.md",
-    "KMOOC_인공지능을위한알고리즘과자료구조/Pasted image 20221024165451.png",
-    "모두의 인공지능 기초수학/수식작성.md",
-    "efficientNet-lite0 (성민) 580b8e4958ca4f2da6e0cf242b191f55/test_F2022061000002781-1.jpg",
-    "모두의 인공지능 기초수학/part4확률과통계_chapter15-1 통계.md",
-    "모두의 인공지능 기초수학/part4확률과통계_chapter15-2 통계.md",
-    "논문 정리_Tiny Drone Tracking Framework Using Multiple Trackers and Kalman-based Predictor.md"
+    "Untitled 2.md",
+    "KMOOC_인공지능을위한알고리즘과자료구조/attachment/Pasted image 20221025104000.png",
+    "KMOOC_인공지능을위한알고리즘과자료구조/attachment/Pasted image 20221024171203.png",
+    "KMOOC_인공지능을위한알고리즘과자료구조/attachment/Pasted image 20221024165611.png",
+    "KMOOC_인공지능을위한알고리즘과자료구조/attachment/Pasted image 20221025102514.png"
   ]
 }
