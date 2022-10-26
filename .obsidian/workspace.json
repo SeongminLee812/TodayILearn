@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "f3e851069e722949",
+        "id": "8ee662dc0b4c6c2b",
         "type": "tabs",
         "children": [
           {
-            "id": "f902d34e4f5bbb32",
+            "id": "e211941a74e5b829",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KMOOC_인공지능을위한알고리즘과자료구조/6-1 코드 블록 단위의 복잡도 분석.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fd4d4bfd45f52210",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "KMOOC_인공지능을위한알고리즘과자료구조/6-2 알고리즘 복잡도 분석.md",
+                "file": "KMOOC_인공지능을위한알고리즘과자료구조/7-1 삽입정렬알고리즘.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -99,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "KMOOC_인공지능을위한알고리즘과자료구조/6-2 알고리즘 복잡도 분석.md",
+                "file": "KMOOC_인공지능을위한알고리즘과자료구조/7-1 삽입정렬알고리즘.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "KMOOC_인공지능을위한알고리즘과자료구조/6-2 알고리즘 복잡도 분석.md",
+                "file": "KMOOC_인공지능을위한알고리즘과자료구조/7-1 삽입정렬알고리즘.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "KMOOC_인공지능을위한알고리즘과자료구조/6-2 알고리즘 복잡도 분석.md"
+                "file": "KMOOC_인공지능을위한알고리즘과자료구조/7-1 삽입정렬알고리즘.md"
               }
             }
           },
@@ -162,7 +149,7 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "fd4d4bfd45f52210",
+  "active": "e211941a74e5b829",
   "lastOpenFiles": [
     "KMOOC_인공지능을위한알고리즘과자료구조/6-1 코드 블록 단위의 복잡도 분석.md",
     "KMOOC_인공지능을위한알고리즘과자료구조/6-2 알고리즘 복잡도 분석.md",
