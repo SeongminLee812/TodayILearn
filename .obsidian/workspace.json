@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "07537e9dd6652ed6",
+        "id": "aa9dadb501da0107",
         "type": "tabs",
         "children": [
           {
-            "id": "89fed5bd9679d966",
+            "id": "c6cc2d1fbc5953bd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KMOOC_인공지능을위한알고리즘과자료구조/4-1 그래프탐색_DFS와 BFS.md",
+                "file": "KMOOC_인공지능을위한알고리즘과자료구조/7-1 삽입정렬알고리즘.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "KMOOC_인공지능을위한알고리즘과자료구조/4-1 그래프탐색_DFS와 BFS.md",
+                "file": "KMOOC_인공지능을위한알고리즘과자료구조/7-1 삽입정렬알고리즘.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "KMOOC_인공지능을위한알고리즘과자료구조/4-1 그래프탐색_DFS와 BFS.md",
+                "file": "KMOOC_인공지능을위한알고리즘과자료구조/7-1 삽입정렬알고리즘.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "KMOOC_인공지능을위한알고리즘과자료구조/4-1 그래프탐색_DFS와 BFS.md"
+                "file": "KMOOC_인공지능을위한알고리즘과자료구조/7-1 삽입정렬알고리즘.md"
               }
             }
           },
@@ -149,16 +149,16 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "89fed5bd9679d966",
+  "active": "c6cc2d1fbc5953bd",
   "lastOpenFiles": [
-    "KMOOC_인공지능을위한알고리즘과자료구조/3-2 그래프.md",
-    "KMOOC_인공지능을위한알고리즘과자료구조/7-1 삽입정렬알고리즘.md",
-    "KMOOC_인공지능을위한알고리즘과자료구조/6-1 코드 블록 단위의 복잡도 분석.md",
     "KMOOC_인공지능을위한알고리즘과자료구조/6-2 알고리즘 복잡도 분석.md",
-    "KMOOC_인공지능을위한알고리즘과자료구조/5-1 함수의 점근적 분석법.md",
+    "KMOOC_인공지능을위한알고리즘과자료구조/6-1 코드 블록 단위의 복잡도 분석.md",
     "KMOOC_인공지능을위한알고리즘과자료구조/5-2 심볼 기반 함수의 점근적 바운드.md",
+    "KMOOC_인공지능을위한알고리즘과자료구조/5-1 함수의 점근적 분석법.md",
     "KMOOC_인공지능을위한알고리즘과자료구조/4-2 그래프 탐색의 STL활용 구현.md",
     "KMOOC_인공지능을위한알고리즘과자료구조/4-1 그래프탐색_DFS와 BFS.md",
+    "KMOOC_인공지능을위한알고리즘과자료구조/3-2 그래프.md",
+    "KMOOC_인공지능을위한알고리즘과자료구조/7-1 삽입정렬알고리즘.md",
     "KMOOC_인공지능을위한알고리즘과자료구조/2-1 배열과 리스트.md",
     "KMOOC_인공지능을위한알고리즘과자료구조/3-1 트리자료구조.md"
   ]

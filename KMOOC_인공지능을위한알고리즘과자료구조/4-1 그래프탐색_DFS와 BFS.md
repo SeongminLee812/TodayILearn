@@ -1,5 +1,5 @@
 
-그래프를 노드들을 하나씩 순회하는 방법
+그래프의노드들을 하나씩 순회하는 방법
 ## Graph Traversel
 - 그래프 순회 / 검색 search라고도 표현됨
 - Breadth First Search(BFS) : 너비우선탐색
