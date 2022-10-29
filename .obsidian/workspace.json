@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "694774a1a6f7ae51",
+        "id": "d711fe642599e59d",
         "type": "tabs",
         "children": [
           {
-            "id": "b5fa262d2979f690",
+            "id": "53e7164842af9be0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KMOOC_인공지능을위한알고리즘과자료구조/12-1 서로소 집합.md",
+                "file": "KMOOC_인공지능을위한알고리즘과자료구조/12-3 서로소 집합과 크루스칼 알고리즘.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "KMOOC_인공지능을위한알고리즘과자료구조/12-1 서로소 집합.md",
+                "file": "KMOOC_인공지능을위한알고리즘과자료구조/12-3 서로소 집합과 크루스칼 알고리즘.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "KMOOC_인공지능을위한알고리즘과자료구조/12-1 서로소 집합.md",
+                "file": "KMOOC_인공지능을위한알고리즘과자료구조/12-3 서로소 집합과 크루스칼 알고리즘.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "KMOOC_인공지능을위한알고리즘과자료구조/12-1 서로소 집합.md"
+                "file": "KMOOC_인공지능을위한알고리즘과자료구조/12-3 서로소 집합과 크루스칼 알고리즘.md"
               }
             }
           },
@@ -146,8 +146,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "b5fa262d2979f690",
+  "active": "53e7164842af9be0",
   "lastOpenFiles": [
+    "KMOOC_인공지능을위한알고리즘과자료구조/12-1 서로소 집합.md",
     "KMOOC_인공지능을위한알고리즘과자료구조/5-2 심볼 기반 함수의 점근적 바운드.md",
     "KMOOC_인공지능을위한알고리즘과자료구조/5-1 함수의 점근적 분석법.md",
     "KMOOC_인공지능을위한알고리즘과자료구조/11-2 Kruskal`s Algorithm.md",
@@ -156,7 +157,6 @@
     "KMOOC_인공지능을위한알고리즘과자료구조/9-1 binary heap.md",
     "KMOOC_인공지능을위한알고리즘과자료구조/10-1 힙정렬.md",
     "KMOOC_인공지능을위한알고리즘과자료구조/10-2 퀵 정렬.md",
-    "KMOOC_인공지능을위한알고리즘과자료구조/7-2 합병 정렬과 재귀적 알고리즘 복잡도 분석.md",
-    "KMOOC_인공지능을위한알고리즘과자료구조/7-1 삽입정렬알고리즘.md"
+    "KMOOC_인공지능을위한알고리즘과자료구조/7-2 합병 정렬과 재귀적 알고리즘 복잡도 분석.md"
   ]
 }
