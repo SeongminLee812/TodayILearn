@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "d711fe642599e59d",
+        "id": "3e75a5d17e49013b",
         "type": "tabs",
         "children": [
           {
-            "id": "53e7164842af9be0",
+            "id": "2281f78ecb71bc0e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KMOOC_인공지능을위한알고리즘과자료구조/12-3 서로소 집합과 크루스칼 알고리즘.md",
+                "file": "KMOOC_인공지능을위한알고리즘과자료구조/13-1 그래프 최단경로 알고리즘.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cd12e09759224a81",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "KMOOC_인공지능을위한알고리즘과자료구조/13-2 다익스트라 알고리즘과 복잡도.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "KMOOC_인공지능을위한알고리즘과자료구조/12-3 서로소 집합과 크루스칼 알고리즘.md",
+                "file": "KMOOC_인공지능을위한알고리즘과자료구조/13-2 다익스트라 알고리즘과 복잡도.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "KMOOC_인공지능을위한알고리즘과자료구조/12-3 서로소 집합과 크루스칼 알고리즘.md",
+                "file": "KMOOC_인공지능을위한알고리즘과자료구조/13-2 다익스트라 알고리즘과 복잡도.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "KMOOC_인공지능을위한알고리즘과자료구조/12-3 서로소 집합과 크루스칼 알고리즘.md"
+                "file": "KMOOC_인공지능을위한알고리즘과자료구조/13-2 다익스트라 알고리즘과 복잡도.md"
               }
             }
           },
@@ -146,8 +159,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "53e7164842af9be0",
+  "active": "cd12e09759224a81",
   "lastOpenFiles": [
+    "KMOOC_인공지능을위한알고리즘과자료구조/13-1 그래프 최단경로 알고리즘.md",
+    "KMOOC_인공지능을위한알고리즘과자료구조/12-2 서로소 집합과 크루스칼 알고리즘.md",
     "KMOOC_인공지능을위한알고리즘과자료구조/12-1 서로소 집합.md",
     "KMOOC_인공지능을위한알고리즘과자료구조/5-2 심볼 기반 함수의 점근적 바운드.md",
     "KMOOC_인공지능을위한알고리즘과자료구조/5-1 함수의 점근적 분석법.md",
@@ -155,8 +170,6 @@
     "KMOOC_인공지능을위한알고리즘과자료구조/11-1 최소신장트리 문제와 프림 알고리즘.md",
     "KMOOC_인공지능을위한알고리즘과자료구조/9-2 힙 자료구조의 구현 및 복잡도.md",
     "KMOOC_인공지능을위한알고리즘과자료구조/9-1 binary heap.md",
-    "KMOOC_인공지능을위한알고리즘과자료구조/10-1 힙정렬.md",
-    "KMOOC_인공지능을위한알고리즘과자료구조/10-2 퀵 정렬.md",
-    "KMOOC_인공지능을위한알고리즘과자료구조/7-2 합병 정렬과 재귀적 알고리즘 복잡도 분석.md"
+    "KMOOC_인공지능을위한알고리즘과자료구조/10-1 힙정렬.md"
   ]
 }
