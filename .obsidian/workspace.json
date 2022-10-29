@@ -13,18 +13,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KMOOC_인공지능을위한알고리즘과자료구조/10-2 퀵 정렬.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a74d244e65bb3c78",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "KMOOC_인공지능을위한알고리즘과자료구조/11-1 최소신장트리 문제와 프림 알고리즘.md",
                 "mode": "source",
                 "source": false
@@ -32,42 +20,19 @@
             }
           },
           {
-            "id": "b6da2926e041ad80",
+            "id": "60733b7d01282871",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KMOOC_인공지능을위한알고리즘과자료구조/9-2 힙 자료구조의 구현 및 복잡도.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7950a82a86b33bc9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "KMOOC_인공지능을위한알고리즘과자료구조/10-1 힙정렬.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "76887cc23b7f7d53",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "KMOOC_인공지능을위한알고리즘과자료구조/10-2 퀵 정렬.md",
+                "file": "KMOOC_인공지능을위한알고리즘과자료구조/5-1 함수의 점근적 분석법.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -134,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "KMOOC_인공지능을위한알고리즘과자료구조/10-2 퀵 정렬.md",
+                "file": "KMOOC_인공지능을위한알고리즘과자료구조/5-1 함수의 점근적 분석법.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "KMOOC_인공지능을위한알고리즘과자료구조/10-2 퀵 정렬.md",
+                "file": "KMOOC_인공지능을위한알고리즘과자료구조/5-1 함수의 점근적 분석법.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "KMOOC_인공지능을위한알고리즘과자료구조/10-2 퀵 정렬.md"
+                "file": "KMOOC_인공지능을위한알고리즘과자료구조/5-1 함수의 점근적 분석법.md"
               }
             }
           },
@@ -194,17 +159,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "1d176449c72b1f33",
+  "active": "60733b7d01282871",
   "lastOpenFiles": [
+    "KMOOC_인공지능을위한알고리즘과자료구조/11-2 Kruskal`s Algorithm.md",
+    "KMOOC_인공지능을위한알고리즘과자료구조/11-1 최소신장트리 문제와 프림 알고리즘.md",
+    "KMOOC_인공지능을위한알고리즘과자료구조/9-2 힙 자료구조의 구현 및 복잡도.md",
+    "KMOOC_인공지능을위한알고리즘과자료구조/9-1 binary heap.md",
+    "KMOOC_인공지능을위한알고리즘과자료구조/10-1 힙정렬.md",
     "KMOOC_인공지능을위한알고리즘과자료구조/10-2 퀵 정렬.md",
     "KMOOC_인공지능을위한알고리즘과자료구조/5-2 심볼 기반 함수의 점근적 바운드.md",
     "KMOOC_인공지능을위한알고리즘과자료구조/5-1 함수의 점근적 분석법.md",
-    "KMOOC_인공지능을위한알고리즘과자료구조/10-1 힙정렬.md",
-    "KMOOC_인공지능을위한알고리즘과자료구조/9-2 힙 자료구조의 구현 및 복잡도.md",
-    "KMOOC_인공지능을위한알고리즘과자료구조/9-1 binary heap.md",
     "KMOOC_인공지능을위한알고리즘과자료구조/7-2 합병 정렬과 재귀적 알고리즘 복잡도 분석.md",
-    "KMOOC_인공지능을위한알고리즘과자료구조/7-1 삽입정렬알고리즘.md",
-    "KMOOC_인공지능을위한알고리즘과자료구조/3-1 트리자료구조.md",
-    "KMOOC_인공지능을위한알고리즘과자료구조/6-2 알고리즘 복잡도 분석.md"
+    "KMOOC_인공지능을위한알고리즘과자료구조/7-1 삽입정렬알고리즘.md"
   ]
 }
