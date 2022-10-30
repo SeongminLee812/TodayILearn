@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "28df642f980fd107",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "KMOOC_인공지능을위한알고리즘과자료구조/15-1 동적계획법의 방법론 이해.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -99,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "KMOOC_인공지능을위한알고리즘과자료구조/14-2 임계경로.md",
+                "file": "KMOOC_인공지능을위한알고리즘과자료구조/15-1 동적계획법의 방법론 이해.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "KMOOC_인공지능을위한알고리즘과자료구조/14-2 임계경로.md",
+                "file": "KMOOC_인공지능을위한알고리즘과자료구조/15-1 동적계획법의 방법론 이해.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "KMOOC_인공지능을위한알고리즘과자료구조/14-2 임계경로.md"
+                "file": "KMOOC_인공지능을위한알고리즘과자료구조/15-1 동적계획법의 방법론 이해.md"
               }
             }
           },
@@ -159,8 +171,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "5ccc3d801c23469f",
+  "active": "28df642f980fd107",
   "lastOpenFiles": [
+    "KMOOC_인공지능을위한알고리즘과자료구조/14-2 임계경로.md",
     "KMOOC_인공지능을위한알고리즘과자료구조/14-1 DAG구조와 활용분야.md",
     "KMOOC_인공지능을위한알고리즘과자료구조/13-2 다익스트라 알고리즘과 복잡도.md",
     "KMOOC_인공지능을위한알고리즘과자료구조/13-1 그래프 최단경로 알고리즘.md",
@@ -169,7 +182,6 @@
     "KMOOC_인공지능을위한알고리즘과자료구조/11-2 Kruskal`s Algorithm.md",
     "KMOOC_인공지능을위한알고리즘과자료구조/4-2 그래프 탐색의 STL활용 구현.md",
     "KMOOC_인공지능을위한알고리즘과자료구조/4-1 그래프탐색_DFS와 BFS.md",
-    "KMOOC_인공지능을위한알고리즘과자료구조/3-2 그래프.md",
-    "KMOOC_인공지능을위한알고리즘과자료구조/3-1 트리자료구조.md"
+    "KMOOC_인공지능을위한알고리즘과자료구조/3-2 그래프.md"
   ]
 }
