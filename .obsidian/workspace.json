@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KMOOC_인공지능을위한알고리즘과자료구조/4-2 그래프 탐색의 STL활용 구현.md",
+                "file": "KMOOC_인공지능을위한알고리즘과자료구조/12-1 서로소 집합.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "8171c1653afb67da",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "KMOOC_인공지능을위한알고리즘과자료구조/4-2 그래프 탐색의 STL활용 구현.md",
+                "file": "KMOOC_인공지능을위한알고리즘과자료구조/12-1 서로소 집합.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "KMOOC_인공지능을위한알고리즘과자료구조/4-2 그래프 탐색의 STL활용 구현.md",
+                "file": "KMOOC_인공지능을위한알고리즘과자료구조/12-1 서로소 집합.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "KMOOC_인공지능을위한알고리즘과자료구조/4-2 그래프 탐색의 STL활용 구현.md"
+                "file": "KMOOC_인공지능을위한알고리즘과자료구조/12-1 서로소 집합.md"
               }
             }
           },
@@ -147,15 +148,15 @@
   },
   "active": "2281f78ecb71bc0e",
   "lastOpenFiles": [
+    "KMOOC_인공지능을위한알고리즘과자료구조/11-2 Kruskal`s Algorithm.md",
+    "KMOOC_인공지능을위한알고리즘과자료구조/13-2 다익스트라 알고리즘과 복잡도.md",
+    "KMOOC_인공지능을위한알고리즘과자료구조/4-2 그래프 탐색의 STL활용 구현.md",
     "KMOOC_인공지능을위한알고리즘과자료구조/4-1 그래프탐색_DFS와 BFS.md",
     "KMOOC_인공지능을위한알고리즘과자료구조/3-2 그래프.md",
     "KMOOC_인공지능을위한알고리즘과자료구조/3-1 트리자료구조.md",
     "KMOOC_인공지능을위한알고리즘과자료구조/2-2 스택과 큐.md",
     "KMOOC_인공지능을위한알고리즘과자료구조/2-1 배열과 리스트.md",
     "KMOOC_인공지능을위한알고리즘과자료구조/1-2 강좌의 목표와 실습환경.md",
-    "KMOOC_인공지능을위한알고리즘과자료구조/1-1 자료구조알고리즘의 정의 및 강좌소개.md",
-    "KMOOC_인공지능을위한알고리즘과자료구조/13-2 다익스트라 알고리즘과 복잡도.md",
-    "KMOOC_인공지능을위한알고리즘과자료구조/13-1 그래프 최단경로 알고리즘.md",
-    "KMOOC_인공지능을위한알고리즘과자료구조/12-1 서로소 집합.md"
+    "KMOOC_인공지능을위한알고리즘과자료구조/1-1 자료구조알고리즘의 정의 및 강좌소개.md"
   ]
 }
