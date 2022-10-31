@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KMOOC_인공지능을위한알고리즘과자료구조/7-2 합병 정렬과 재귀적 알고리즘 복잡도 분석.md",
+                "file": "KMOOC_인공지능을위한알고리즘과자료구조/9-1 binary heap.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "44720b89c263c3f9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "딥러닝올인원/1강 딥러닝 입문.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "KMOOC_인공지능을위한알고리즘과자료구조/7-2 합병 정렬과 재귀적 알고리즘 복잡도 분석.md",
+                "file": "딥러닝올인원/1강 딥러닝 입문.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "KMOOC_인공지능을위한알고리즘과자료구조/7-2 합병 정렬과 재귀적 알고리즘 복잡도 분석.md",
+                "file": "딥러닝올인원/1강 딥러닝 입문.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "KMOOC_인공지능을위한알고리즘과자료구조/7-2 합병 정렬과 재귀적 알고리즘 복잡도 분석.md"
+                "file": "딥러닝올인원/1강 딥러닝 입문.md"
               }
             }
           },
@@ -145,17 +158,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "206a577cbc1af23c",
+  "active": "44720b89c263c3f9",
   "lastOpenFiles": [
+    "KMOOC_인공지능을위한알고리즘과자료구조/9-1 binary heap.md",
+    "KMOOC_인공지능을위한알고리즘과자료구조/9-2 힙 자료구조의 구현 및 복잡도.md",
+    "KMOOC_인공지능을위한알고리즘과자료구조/7-2 합병 정렬과 재귀적 알고리즘 복잡도 분석.md",
     "KMOOC_인공지능을위한알고리즘과자료구조/7-1 삽입정렬알고리즘.md",
     "KMOOC_인공지능을위한알고리즘과자료구조/6-2 알고리즘 복잡도 분석.md",
     "KMOOC_인공지능을위한알고리즘과자료구조/6-1 코드 블록 단위의 복잡도 분석.md",
     "KMOOC_인공지능을위한알고리즘과자료구조/5-2 심볼 기반 함수의 점근적 바운드.md",
     "KMOOC_인공지능을위한알고리즘과자료구조/5-1 함수의 점근적 분석법.md",
     "KMOOC_인공지능을위한알고리즘과자료구조/14-2 임계경로.md",
-    "KMOOC_인공지능을위한알고리즘과자료구조/14-1 DAG구조와 활용분야.md",
-    "KMOOC_인공지능을위한알고리즘과자료구조/15-1 동적계획법의 방법론 이해.md",
-    "KMOOC_인공지능을위한알고리즘과자료구조/15-2 행렬 체인 곱셈 문제의 동적계획법 기반 해결.md",
-    "KMOOC_인공지능을위한알고리즘과자료구조/13-2 다익스트라 알고리즘과 복잡도.md"
+    "KMOOC_인공지능을위한알고리즘과자료구조/14-1 DAG구조와 활용분야.md"
   ]
 }
