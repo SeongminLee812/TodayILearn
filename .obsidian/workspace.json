@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "44720b89c263c3f9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "딥러닝올인원/1강 딥러닝 입문.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "딥러닝올인원/1강 딥러닝 입문.md",
+                "file": "KMOOC_인공지능을위한알고리즘과자료구조/9-1 binary heap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "딥러닝올인원/1강 딥러닝 입문.md",
+                "file": "KMOOC_인공지능을위한알고리즘과자료구조/9-1 binary heap.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "딥러닝올인원/1강 딥러닝 입문.md"
+                "file": "KMOOC_인공지능을위한알고리즘과자료구조/9-1 binary heap.md"
               }
             }
           },
@@ -158,17 +145,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "44720b89c263c3f9",
+  "active": "206a577cbc1af23c",
   "lastOpenFiles": [
+    "Pro DS특강/머신러닝.md",
     "KMOOC_인공지능을위한알고리즘과자료구조/9-1 binary heap.md",
+    "Pro DS특강/Untitled.png",
+    "딥러닝올인원/1강 딥러닝 입문.md",
     "KMOOC_인공지능을위한알고리즘과자료구조/9-2 힙 자료구조의 구현 및 복잡도.md",
     "KMOOC_인공지능을위한알고리즘과자료구조/7-2 합병 정렬과 재귀적 알고리즘 복잡도 분석.md",
     "KMOOC_인공지능을위한알고리즘과자료구조/7-1 삽입정렬알고리즘.md",
     "KMOOC_인공지능을위한알고리즘과자료구조/6-2 알고리즘 복잡도 분석.md",
     "KMOOC_인공지능을위한알고리즘과자료구조/6-1 코드 블록 단위의 복잡도 분석.md",
-    "KMOOC_인공지능을위한알고리즘과자료구조/5-2 심볼 기반 함수의 점근적 바운드.md",
-    "KMOOC_인공지능을위한알고리즘과자료구조/5-1 함수의 점근적 분석법.md",
-    "KMOOC_인공지능을위한알고리즘과자료구조/14-2 임계경로.md",
-    "KMOOC_인공지능을위한알고리즘과자료구조/14-1 DAG구조와 활용분야.md"
+    "KMOOC_인공지능을위한알고리즘과자료구조/5-2 심볼 기반 함수의 점근적 바운드.md"
   ]
 }
