@@ -13,50 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KMOOC_인공지능을위한알고리즘과자료구조/14-1 DAG구조와 활용분야.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5ccc3d801c23469f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "KMOOC_인공지능을위한알고리즘과자료구조/14-2 임계경로.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "28df642f980fd107",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "KMOOC_인공지능을위한알고리즘과자료구조/15-1 동적계획법의 방법론 이해.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e35a4c23740578f3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "KMOOC_인공지능을위한알고리즘과자료구조/15-2 행렬 체인 곱셈 문제의 동적계획법 기반 해결.md",
+                "file": "KMOOC_인공지능을위한알고리즘과자료구조/6-1 코드 블록 단위의 복잡도 분석.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "8171c1653afb67da",
@@ -123,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "KMOOC_인공지능을위한알고리즘과자료구조/15-2 행렬 체인 곱셈 문제의 동적계획법 기반 해결.md",
+                "file": "KMOOC_인공지능을위한알고리즘과자료구조/6-1 코드 블록 단위의 복잡도 분석.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "KMOOC_인공지능을위한알고리즘과자료구조/15-2 행렬 체인 곱셈 문제의 동적계획법 기반 해결.md",
+                "file": "KMOOC_인공지능을위한알고리즘과자료구조/6-1 코드 블록 단위의 복잡도 분석.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "KMOOC_인공지능을위한알고리즘과자료구조/15-2 행렬 체인 곱셈 문제의 동적계획법 기반 해결.md"
+                "file": "KMOOC_인공지능을위한알고리즘과자료구조/6-1 코드 블록 단위의 복잡도 분석.md"
               }
             }
           },
@@ -183,17 +145,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e35a4c23740578f3",
+  "active": "206a577cbc1af23c",
   "lastOpenFiles": [
-    "KMOOC_인공지능을위한알고리즘과자료구조/15-1 동적계획법의 방법론 이해.md",
+    "KMOOC_인공지능을위한알고리즘과자료구조/5-2 심볼 기반 함수의 점근적 바운드.md",
+    "KMOOC_인공지능을위한알고리즘과자료구조/5-1 함수의 점근적 분석법.md",
     "KMOOC_인공지능을위한알고리즘과자료구조/14-2 임계경로.md",
     "KMOOC_인공지능을위한알고리즘과자료구조/14-1 DAG구조와 활용분야.md",
+    "KMOOC_인공지능을위한알고리즘과자료구조/15-1 동적계획법의 방법론 이해.md",
     "KMOOC_인공지능을위한알고리즘과자료구조/15-2 행렬 체인 곱셈 문제의 동적계획법 기반 해결.md",
     "KMOOC_인공지능을위한알고리즘과자료구조/13-2 다익스트라 알고리즘과 복잡도.md",
     "KMOOC_인공지능을위한알고리즘과자료구조/13-1 그래프 최단경로 알고리즘.md",
     "KMOOC_인공지능을위한알고리즘과자료구조/12-2 서로소 집합과 크루스칼 알고리즘.md",
-    "KMOOC_인공지능을위한알고리즘과자료구조/12-1 서로소 집합.md",
-    "KMOOC_인공지능을위한알고리즘과자료구조/11-2 Kruskal`s Algorithm.md",
-    "KMOOC_인공지능을위한알고리즘과자료구조/4-2 그래프 탐색의 STL활용 구현.md"
+    "KMOOC_인공지능을위한알고리즘과자료구조/12-1 서로소 집합.md"
   ]
 }
