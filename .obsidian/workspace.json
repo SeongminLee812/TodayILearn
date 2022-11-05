@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KMOOC_인공지능을위한알고리즘과자료구조/11-1 최소신장트리 문제와 프림 알고리즘.md",
+                "file": "실체가 손에 잡히는 딥러닝/4장 신경망.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "8171c1653afb67da",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "KMOOC_인공지능을위한알고리즘과자료구조/11-1 최소신장트리 문제와 프림 알고리즘.md",
+                "file": "실체가 손에 잡히는 딥러닝/4장 신경망.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "KMOOC_인공지능을위한알고리즘과자료구조/11-1 최소신장트리 문제와 프림 알고리즘.md",
+                "file": "실체가 손에 잡히는 딥러닝/4장 신경망.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "KMOOC_인공지능을위한알고리즘과자료구조/11-1 최소신장트리 문제와 프림 알고리즘.md"
+                "file": "실체가 손에 잡히는 딥러닝/4장 신경망.md"
               }
             }
           },
@@ -147,6 +148,7 @@
   },
   "active": "206a577cbc1af23c",
   "lastOpenFiles": [
+    "KMOOC_인공지능을위한알고리즘과자료구조/11-1 최소신장트리 문제와 프림 알고리즘.md",
     "KMOOC_인공지능을위한알고리즘과자료구조/10-2 퀵 정렬.md",
     "KMOOC_인공지능을위한알고리즘과자료구조/10-1 힙정렬.md",
     "KMOOC_인공지능을위한알고리즘과자료구조/9-2 힙 자료구조의 구현 및 복잡도.md",
@@ -155,7 +157,6 @@
     "실체가 손에 잡히는 딥러닝/4장 신경망.md",
     "실체가 손에 잡히는 딥러닝/논문정리CDGNet_Class Distribution Guided Network for Human Parsing.md",
     "모두의 인공지능 기초수학/수식작성.md",
-    "Pro DS특강/머신러닝.md",
-    "Pro DS특강/Untitled.png"
+    "Pro DS특강/머신러닝.md"
   ]
 }
