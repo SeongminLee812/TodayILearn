@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "실체가 손에 잡히는 딥러닝/5장 역전파.md",
+                "file": "실체가 손에 잡히는 딥러닝/4장 신경망.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "실체가 손에 잡히는 딥러닝/5장 역전파.md",
+                "file": "실체가 손에 잡히는 딥러닝/4장 신경망.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "실체가 손에 잡히는 딥러닝/5장 역전파.md"
+                "file": "실체가 손에 잡히는 딥러닝/4장 신경망.md"
               }
             }
           },
@@ -158,8 +157,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "cca38f696ae0400e",
+  "active": "206a577cbc1af23c",
   "lastOpenFiles": [
+    "실체가 손에 잡히는 딥러닝/5장 역전파.md",
     "실체가 손에 잡히는 딥러닝/4장 신경망.md",
     "KMOOC_인공지능을위한알고리즘과자료구조/11-1 최소신장트리 문제와 프림 알고리즘.md",
     "KMOOC_인공지능을위한알고리즘과자료구조/10-2 퀵 정렬.md",
@@ -168,7 +168,6 @@
     "KMOOC_인공지능을위한알고리즘과자료구조/9-1 binary heap.md",
     "KMOOC_인공지능을위한알고리즘과자료구조/4-1 그래프탐색_DFS와 BFS.md",
     "실체가 손에 잡히는 딥러닝/논문정리CDGNet_Class Distribution Guided Network for Human Parsing.md",
-    "모두의 인공지능 기초수학/수식작성.md",
-    "Pro DS특강/머신러닝.md"
+    "모두의 인공지능 기초수학/수식작성.md"
   ]
 }
