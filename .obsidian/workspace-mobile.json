@@ -1,0 +1,137 @@
+{
+  "main": {
+    "id": "deb19951932df3d5",
+    "type": "split",
+    "children": [
+      {
+        "id": "4523db747024cfda",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3fd042b95617c08c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "KMOOC_인공지능을위한알고리즘과자료구조/13-2 다익스트라 알고리즘과 복잡도.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6357766eda964915",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "df773652702d7c2c",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "cb4435587394a381",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "1eaf69a56307d2fe",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "331d060187dfa4de",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "cb92b81b7849a479",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "a0f9ce9d12c4246e",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "KMOOC_인공지능을위한알고리즘과자료구조/13-2 다익스트라 알고리즘과 복잡도.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "9fed8788a304c17e",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "KMOOC_인공지능을위한알고리즘과자료구조/13-2 다익스트라 알고리즘과 복잡도.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "ea863809f42e4997",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "KMOOC_인공지능을위한알고리즘과자료구조/13-2 다익스트라 알고리즘과 복잡도.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "3fd042b95617c08c",
+  "lastOpenFiles": [
+    "모두의 인공지능 기초수학/chapter5 다항식과 기하학.md",
+    "모두의 인공지능 기초수학/chapter1 방정식과 부등식.md",
+    "Pasted image 20221013172642.png",
+    "Pasted image 20221013161455.png",
+    "Pasted image 20220827212048.png",
+    "Pasted image 20220827211851.png",
+    "Pasted image 20220811152452.png",
+    "Pasted image 20220811152127.png",
+    "Pasted image 20221013162308.png",
+    "Pasted image 20221013171459.png"
+  ]
+}
