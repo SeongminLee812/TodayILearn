@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "실체가 손에 잡히는 딥러닝/논문정리CDGNet_Class Distribution Guided Network for Human Parsing.md",
+                "file": "실체가 손에 잡히는 딥러닝/5장 역전파.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "실체가 손에 잡히는 딥러닝/논문정리CDGNet_Class Distribution Guided Network for Human Parsing.md",
+                "file": "실체가 손에 잡히는 딥러닝/5장 역전파.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "실체가 손에 잡히는 딥러닝/논문정리CDGNet_Class Distribution Guided Network for Human Parsing.md",
+                "file": "실체가 손에 잡히는 딥러닝/5장 역전파.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "실체가 손에 잡히는 딥러닝/논문정리CDGNet_Class Distribution Guided Network for Human Parsing.md"
+                "file": "실체가 손에 잡히는 딥러닝/5장 역전파.md"
               }
             }
           },
@@ -160,6 +160,7 @@
   },
   "active": "cca38f696ae0400e",
   "lastOpenFiles": [
+    "실체가 손에 잡히는 딥러닝/논문정리CDGNet_Class Distribution Guided Network for Human Parsing.md",
     "KMOOC_인공지능을위한알고리즘과자료구조/14-1 DAG구조와 활용분야.md",
     "KMOOC_인공지능을위한알고리즘과자료구조/14-2 임계경로.md",
     "KMOOC_인공지능을위한알고리즘과자료구조/13-2 다익스트라 알고리즘과 복잡도.md",
@@ -168,7 +169,6 @@
     "KMOOC_인공지능을위한알고리즘과자료구조/12-2 서로소 집합과 크루스칼 알고리즘.md",
     "KMOOC_인공지능을위한알고리즘과자료구조/12-1 서로소 집합.md",
     "KMOOC_인공지능을위한알고리즘과자료구조/11-1 최소신장트리 문제와 프림 알고리즘.md",
-    "KMOOC_인공지능을위한알고리즘과자료구조/9-1 binary heap.md",
-    "KMOOC_인공지능을위한알고리즘과자료구조/10-1 힙정렬.md"
+    "KMOOC_인공지능을위한알고리즘과자료구조/9-1 binary heap.md"
   ]
 }
