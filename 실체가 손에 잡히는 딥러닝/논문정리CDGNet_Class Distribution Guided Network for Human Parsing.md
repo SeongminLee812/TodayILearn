@@ -1,4 +1,4 @@
-아주대 황원준 교수님
+아주대 황원준 교수님(CVPR)
 - divide and conquer 알고리즘 사용으로 human parsing 문제 해결
 - CDG Net(Class Distribution Guided) : 
 - vertical label과 horizontal label에 분배해줌(2D 공간적인 문제를 1차원으로 줄이기 위해)
