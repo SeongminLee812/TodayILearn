@@ -59,3 +59,17 @@ class Account:
   
 account = Account('홍길동')
 ```
+
+# Django
+### 웹
+- 웹은 WWW의 줄임말이다.
+- 여러 개의 웹 페이지가 묶여서 웹 사이트가 된다.
+- 웹 페이지가 보이는 과정
+	- 클라이언트가 호스트에게 request
+	- 호스트가 클라이언트 요청에 맞는 코드를 response
+
+### Django 시작하기
+- 프로젝트 만들기
+`django-admin startproject PROJECT_NAME`
+- 프로젝트 실행
+`python manage.py runserver`
