@@ -28,3 +28,34 @@ def input_sum(*numbers):
 - 매직 메소드, 특별메소드, 더블언더메소드, 더블 메소드 등으로 불림
 - 클래스에서 사용되는 함수로 객체가 생성된 후에 자동으로 호출되는 함수
 - 'Account' 클래스는 객체가 생성될 때 인수로 전달한 name을 멤버 변수의 name으로 설정하며, 멤버 변수로 money를 10000으로 가진다.
+```python
+class Account:  
+   def __init__(self, name):  
+      print('[init start]객체가 생성됩니다.')  
+      self.name = name  
+      self.money = 10000  
+      print('[init end]객체가 생성되었습니다.')  
+     
+   def deposit(self, money):  
+      print(f'[deposit start]돈을 입금합니다. {money}원')  
+      self.money = self.money + money  
+      print(f'[deposit end]돈을 입금했습니다.{money}원')  
+  
+   def withdraw(self, money):  
+      print(f'[withdraw start]돈을 출금합니다.{money}원')  
+      self.money = self.money - money  
+      print(f'[withdraw end]돈을 출금했습니다.{money}원')  
+      return money  
+     
+   def print_balance(self):  
+      print('[print_balance start]잔고를 출력합니다.')  
+      print('잔고 :', self.money)  
+      print('[print_balance end]잔고를 출력했습니다.')  
+     
+   def print_owner(self):  
+      print('[print_owner start]소유자를 출력합니다.')  
+      print('소유자 :', self.name)  
+      print('[print_owner end]소유자를 출력했습니다.')  
+  
+account = Account('홍길동')
+```
