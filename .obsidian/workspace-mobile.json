@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KMOOC_인공지능을위한알고리즘과자료구조/13-2 다익스트라 알고리즘과 복잡도.md",
+                "file": "KMOOC_인공지능을위한알고리즘과자료구조/3-2 그래프.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "KMOOC_인공지능을위한알고리즘과자료구조/13-2 다익스트라 알고리즘과 복잡도.md",
+            "file": "KMOOC_인공지능을위한알고리즘과자료구조/3-2 그래프.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "KMOOC_인공지능을위한알고리즘과자료구조/13-2 다익스트라 알고리즘과 복잡도.md",
+            "file": "KMOOC_인공지능을위한알고리즘과자료구조/3-2 그래프.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "KMOOC_인공지능을위한알고리즘과자료구조/13-2 다익스트라 알고리즘과 복잡도.md"
+            "file": "KMOOC_인공지능을위한알고리즘과자료구조/3-2 그래프.md"
           }
         }
       }
@@ -123,15 +123,15 @@
   },
   "active": "3fd042b95617c08c",
   "lastOpenFiles": [
+    "KMOOC_인공지능을위한알고리즘과자료구조/3-1 트리자료구조.md",
+    "KMOOC_인공지능을위한알고리즘과자료구조/2-2 스택과 큐.md",
+    "KMOOC_인공지능을위한알고리즘과자료구조/2-1 배열과 리스트.md",
+    "KMOOC_인공지능을위한알고리즘과자료구조/13-2 다익스트라 알고리즘과 복잡도.md",
     "모두의 인공지능 기초수학/chapter5 다항식과 기하학.md",
     "모두의 인공지능 기초수학/chapter1 방정식과 부등식.md",
     "Pasted image 20221013172642.png",
     "Pasted image 20221013161455.png",
     "Pasted image 20220827212048.png",
-    "Pasted image 20220827211851.png",
-    "Pasted image 20220811152452.png",
-    "Pasted image 20220811152127.png",
-    "Pasted image 20221013162308.png",
-    "Pasted image 20221013171459.png"
+    "Pasted image 20220827211851.png"
   ]
 }
