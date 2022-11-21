@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "15605afd066205a0",
+        "id": "5b691644258032fe",
         "type": "tabs",
         "children": [
           {
-            "id": "82189cb41f4d4141",
+            "id": "5310c9fb473db5b2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "과학기술정보통신부 블로그/221121.md",
+                "file": "Django/Chapter2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "45fbfc22530a72a5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Django/Chapter3.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "8171c1653afb67da",
@@ -85,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "과학기술정보통신부 블로그/221121.md",
+                "file": "Django/Chapter3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "과학기술정보통신부 블로그/221121.md",
+                "file": "Django/Chapter3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "과학기술정보통신부 블로그/221121.md"
+                "file": "Django/Chapter3.md"
               }
             }
           },
@@ -145,17 +159,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "82189cb41f4d4141",
+  "active": "45fbfc22530a72a5",
   "lastOpenFiles": [
+    "Django/Chapter2.md",
+    "Django/Chapter1.md",
+    "과학기술정보통신부 블로그/221121.md",
     "멘토링 미니세미나 메모.md",
     "머신러닝 알고리즘.md",
     "Pasted image 20220820092733.png.md",
     "08_Haechul.pdf",
     "Pro DS특강/머신러닝.md",
     "efficientNet-lite0 (성민) 580b8e4958ca4f2da6e0cf242b191f55/Untitled.png",
-    "efficientNet-lite0 (성민) 580b8e4958ca4f2da6e0cf242b191f55/test_F2022061000002781-1.jpg",
-    "과학기술정보통신부 블로그/221121.md",
-    "과학기술정보통신부 블로그/221121_CCTV.md",
-    "과학기술정보통신부 블로그/221121_통신재난대응 합동 훈련(데이터 센터 화재 등).md"
+    "efficientNet-lite0 (성민) 580b8e4958ca4f2da6e0cf242b191f55/test_F2022061000002781-1.jpg"
   ]
 }
