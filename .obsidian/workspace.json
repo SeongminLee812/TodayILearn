@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -98,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Django/Chapter2.md",
+                "file": "Django/Chapter3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Django/Chapter2.md",
+                "file": "Django/Chapter3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Django/Chapter2.md"
+                "file": "Django/Chapter3.md"
               }
             }
           },
@@ -158,10 +159,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "5310c9fb473db5b2",
+  "active": "45fbfc22530a72a5",
   "lastOpenFiles": [
-    "Django/Chapter3.md",
     "Django/Chapter2.md",
+    "Django/Chapter3.md",
     "Django/Chapter1.md",
     "과학기술정보통신부 블로그/221121.md",
     "멘토링 미니세미나 메모.md",

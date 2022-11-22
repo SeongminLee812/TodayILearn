@@ -18,3 +18,18 @@
 		- SET_NULL : 참조되는 요소가 삭제될 때 이를 참조하는 요소에 대해서 참조 값을 NULL로 설정 (이를 설정하려면 추가로 해당 값을 null로 가질 수 있도록 null=True 설정을 해줘야함)
 		- SET_DEFAULT : 참조되는 요소가 삭제될 때 이를 참조하는 요소에 대하셔 참조값을 설정해 둔 DEFAULT 값으로 설정
 
+- urlspatterns 작성 시 유의사항
+- restaurantDetail/updatePage/update가 restaurantDetail/updatePage/<str:res_id>보다 위에 있어야한다. 그렇지 않으면 <str:res_id>로 먼저 처리하기 때문에 다른 함수로 처리가 넘어가 에러가 발생한다.
+```python
+urlpatterns = [  
+   path('', views.index, name='index'),  
+   path('restaurantDetail/<str:res_id>', views.restaurantDetail, name='resDetailPage'),  
+   path('restaurantDetail/updatePage/update', views.Update_restaurant, name='resUpdate'),  
+   path('restaurantDetail/updatePage/<str:res_id>', views.restaurantUpdate, name='resUpdatePage'),
+```
+
+- HttpResponseRedirect의 reverse의 인수 kwargs
+- resDetailPage라는 이름을 갖는 url 뒷부분에 <str:res_id> 부분에 보내줄 데이터를 정의
+```python
+return HttpResponseRedirect(reverse('resDetailPage', kwargs={'res_id':resId}))
+```
