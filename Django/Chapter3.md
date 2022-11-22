@@ -33,3 +33,8 @@ urlpatterns = [
 ```python
 return HttpResponseRedirect(reverse('resDetailPage', kwargs={'res_id':resId}))
 ```
+
+# 배포
+- PythonAnyWhere이용
+- 배포과정이 간단하며, 소규모 자원에 대해서는 무료로 제공
+- 
