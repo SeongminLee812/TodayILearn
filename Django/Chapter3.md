@@ -65,3 +65,15 @@ with open('email.json', 'r') as f:
 email = json_data['email']  
 password = json_data['password']
 ```
+
+# 배포시 신경써야할 점
+- requirements
+	- 라이브 러리들의 목록을 가진 파일
+- git ignore
+
+- Django의 관점에서 본다면...
+	- static 파일에 대한 처리
+	- settings 파일에 대한 설정
+	- wsgi에 대한 설정
+- 배포하는 다른 방법
+	- heroky, aws(아마존), gcp(구글), azure(마이크로소프트)
