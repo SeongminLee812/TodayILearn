@@ -37,4 +37,31 @@ return HttpResponseRedirect(reverse('resDetailPage', kwargs={'res_id':resId}))
 # 배포
 - PythonAnyWhere이용
 - 배포과정이 간단하며, 소규모 자원에 대해서는 무료로 제공
-- 
+
+# Email 보내기 과정에서 계정 숨기기
+- API 키 혹은 mysql password 등 중요한 자료 숨기기
+- .json 파일로 만들어서 그 파일은 .gitignore로 보내는 방법
+
+```python
+import json  
+from collections import OrderedDict  
+  
+file_data = OrderedDict()  
+  
+file_data['email'] = '이메일@이메일.com'  
+file_data['password'] = '비밀번호'  
+  
+print(json.dumps(file_data, ensure_ascii=False, indent='\t'))  
+  
+with open('email.json', 'w', encoding='utf-8') as make_file:  
+   json.dump(file_data, make_file, ensure_ascii=False, indent='\t')
+```
+
+아래 코드로 읽어오기
+```python
+import json  
+with open('email.json', 'r') as f:  
+   json_data = json.load(f)  
+email = json_data['email']  
+password = json_data['password']
+```
