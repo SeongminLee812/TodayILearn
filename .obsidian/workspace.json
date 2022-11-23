@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Django/Chapter3.md",
+                "file": "과학기술정보통신부 블로그/221121.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8c821a3f4547c07e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "과학기술정보통신부 블로그/디지털 치료제.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -99,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Django/Chapter3.md",
+                "file": "과학기술정보통신부 블로그/디지털 치료제.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Django/Chapter3.md",
+                "file": "과학기술정보통신부 블로그/디지털 치료제.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Django/Chapter3.md"
+                "file": "과학기술정보통신부 블로그/디지털 치료제.md"
               }
             }
           },
@@ -159,17 +171,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "45fbfc22530a72a5",
+  "active": "8c821a3f4547c07e",
   "lastOpenFiles": [
-    "Django/Chapter2.md",
-    "Django/Chapter3.md",
-    "Django/Chapter1.md",
     "과학기술정보통신부 블로그/221121.md",
+    "과학기술정보통신부 블로그/디지털 치료제.md",
+    "과학기술정보통신부 블로그/221121_통신재난대응 합동 훈련(데이터 센터 화재 등).md",
+    "과학기술정보통신부 블로그/221121_CCTV.md",
+    "Django/Chapter3.md",
+    "Django/Chapter2.md",
+    "Django/Chapter1.md",
     "멘토링 미니세미나 메모.md",
     "머신러닝 알고리즘.md",
-    "Pasted image 20220820092733.png.md",
-    "08_Haechul.pdf",
-    "Pro DS특강/머신러닝.md",
-    "efficientNet-lite0 (성민) 580b8e4958ca4f2da6e0cf242b191f55/Untitled.png"
+    "Pasted image 20220820092733.png.md"
   ]
 }
