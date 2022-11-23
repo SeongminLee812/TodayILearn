@@ -37,7 +37,7 @@
 	- CharField
 		- 문자열을 정의할 때 일반적으로 사용
 		- max_length를 지정하여 최대길이(default = None)
-	- DataField
+	- DateField
 		- 날짜 양식에 맞게 저장되는 데이터 타입
 		- python의 datetime 라이브러리 형태
 	- EmailField
