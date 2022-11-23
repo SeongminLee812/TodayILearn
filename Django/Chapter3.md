@@ -77,3 +77,7 @@ password = json_data['password']
 	- wsgi에 대한 설정
 - 배포하는 다른 방법
 	- heroky, aws(아마존), gcp(구글), azure(마이크로소프트)
+
+# 장고 모델 구성 시 다른 요소를 참조하는 요소
+1. ForeignKey(다대일 관계)
+2. ManyToManyField (다대다 관계)

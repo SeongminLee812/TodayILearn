@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a2a1dbce11c7b892",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Django/Chapter4.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Django/Chapter3.md",
+                "file": "Django/Chapter4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Django/Chapter3.md",
+                "file": "Django/Chapter4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Django/Chapter3.md"
+                "file": "Django/Chapter4.md"
               }
             }
           },
@@ -146,17 +159,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "5310c9fb473db5b2",
+  "active": "a2a1dbce11c7b892",
   "lastOpenFiles": [
-    "Django/Chapter1.md",
     "Django/Chapter3.md",
     "Django/Chapter2.md",
+    "Django/Chapter1.md",
+    "Django/Chapter4.md",
     "과학기술정보통신부 블로그/디지털 치료제.md",
     "과학기술정보통신부 블로그/221121.md",
     "과학기술정보통신부 블로그/221121_통신재난대응 합동 훈련(데이터 센터 화재 등).md",
     "과학기술정보통신부 블로그/221121_CCTV.md",
     "멘토링 미니세미나 메모.md",
-    "머신러닝 알고리즘.md",
-    "Pasted image 20220820092733.png.md"
+    "머신러닝 알고리즘.md"
   ]
 }
