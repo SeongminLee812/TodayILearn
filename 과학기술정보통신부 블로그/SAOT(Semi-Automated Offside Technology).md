@@ -1,6 +1,6 @@
 [원문링크](https://blog.naver.com/PostList.naver?blogId=with_msip&categoryNo=56&from=postList)
 https://youtu.be/leobqMPdfCc
-- 반자동 오프사이드 판독 기술
+- 반자동 오프사이드 판독 기술.
 
 - 2014년 브라질 월드컴에서 골라인 판독 기술(GLT, Goal-Line Technology)을 도입 : 공의 위치와 궤도를 추적하고 통계적으로 분석하는 컴퓨터 시스템
 - 2018년 러시아 월드컵 VAR 도입 -> 그러나 판독에 많은 시간이 걸림
