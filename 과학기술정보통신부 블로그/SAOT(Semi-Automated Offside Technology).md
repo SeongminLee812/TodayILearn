@@ -1,4 +1,4 @@
-[원문링크](https://blog.naver.com/PostList.naver?blogId=with_msip&categoryNo=56&from=postList)
+5[원문링크](https://blog.naver.com/PostList.naver?blogId=with_msip&categoryNo=56&from=postList)
 https://youtu.be/leobqMPdfCc
 - 반자동 오프사이드 판독 기술.
 
