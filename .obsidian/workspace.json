@@ -4,59 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "5b691644258032fe",
+        "id": "89da3ede3443792e",
         "type": "tabs",
         "children": [
           {
-            "id": "5310c9fb473db5b2",
+            "id": "b51088839008b434",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Django/Chapter3.md",
+                "file": "SQL/SQL 복습.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "13d8436725107cbc",
+            "id": "1beff1f13f8aec48",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "과학기술정보통신부 블로그/디지털 치료제.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6e2a6ae060670939",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "과학기술정보통신부 블로그/마이 데이터.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cf1c89f2630d4060",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "과학기술정보통신부 블로그/SAOT(Semi-Automated Offside Technology).md",
+                "file": "SQL/SQL로 맛보는 데이터 전처리 분석.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -122,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "과학기술정보통신부 블로그/SAOT(Semi-Automated Offside Technology).md",
+                "file": "SQL/SQL로 맛보는 데이터 전처리 분석.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "과학기술정보통신부 블로그/SAOT(Semi-Automated Offside Technology).md",
+                "file": "SQL/SQL로 맛보는 데이터 전처리 분석.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "과학기술정보통신부 블로그/SAOT(Semi-Automated Offside Technology).md"
+                "file": "SQL/SQL로 맛보는 데이터 전처리 분석.md"
               }
             }
           },
@@ -182,17 +158,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "cf1c89f2630d4060",
+  "active": "1beff1f13f8aec48",
   "lastOpenFiles": [
+    "SQL/SQL 복습.md",
+    "Django/Chapter3.md",
+    "과학기술정보통신부 블로그/마이 데이터.md",
+    "과학기술정보통신부 블로그/SAOT(Semi-Automated Offside Technology).md",
     "과학기술정보통신부 블로그/전파.md",
     "모두의 인공지능 기초수학/수식작성.md",
     "모두의 인공지능 기초수학/chapter1 방정식과 부등식.md",
     "1일 1로그 100일 완성 IT지식/day1.md",
-    "과학기술정보통신부 블로그/SAOT(Semi-Automated Offside Technology).md",
-    "과학기술정보통신부 블로그/마이 데이터.md",
     "과학기술정보통신부 블로그/디지털 치료제.md",
-    "Django/Chapter3.md",
-    "과학기술정보통신부 블로그/김제 스마트팜 혁신 밸리.md",
-    "과학기술정보통신부 블로그/221121.md"
+    "과학기술정보통신부 블로그/김제 스마트팜 혁신 밸리.md"
   ]
 }
