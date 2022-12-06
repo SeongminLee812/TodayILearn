@@ -9,7 +9,7 @@
 ## SELECT
 `SELECT 호출하려는 칼럼 FROM DB명.TABLE명`
 `SELECT COUNT(상품번호) FROM DB명.테이블명`
-`SELECT 집계함수 FROM DB명.테이블명
+`SELECT 집계함수 FROM DB명.테이블명.
 
 - 모든결과 조회 : \*
 - 여러칼럼 출력 : , 사용
