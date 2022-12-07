@@ -2,7 +2,7 @@
 
 - SELECT 칼럼, 계산 값
 - FROM 테이블 명
-- WHERE 조건
+- WHERE 조건.
 - GROUP BY 그룹화
 - HAVING 그룹화에 사용되는 조건
 
