@@ -4,7 +4,7 @@
 - FROM 테이블 명
 - WHERE 조건.
 - GROUP BY 그룹화
-- HAVING 그룹화에 사용되는 조건
+- HAVING 그룹화에 사용되는 조건.
 
 ## SELECT
 `SELECT 호출하려는 칼럼 FROM DB명.TABLE명`
