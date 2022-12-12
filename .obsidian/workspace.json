@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SQL/SQL로 맛보는 데이터 전처리 분석.md",
+                "file": "KMOOC_인공지능을위한알고리즘과자료구조/3-2 그래프.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SQL/SQL로 맛보는 데이터 전처리 분석.md",
+                "file": "KMOOC_인공지능을위한알고리즘과자료구조/3-2 그래프.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SQL/SQL로 맛보는 데이터 전처리 분석.md",
+                "file": "KMOOC_인공지능을위한알고리즘과자료구조/3-2 그래프.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SQL/SQL로 맛보는 데이터 전처리 분석.md"
+                "file": "KMOOC_인공지능을위한알고리즘과자료구조/3-2 그래프.md"
               }
             }
           },
@@ -160,6 +160,7 @@
   },
   "active": "1beff1f13f8aec48",
   "lastOpenFiles": [
+    "SQL/SQL로 맛보는 데이터 전처리 분석.md",
     "SQL/SQL 복습.md",
     "Django/Chapter3.md",
     "과학기술정보통신부 블로그/마이 데이터.md",
@@ -168,7 +169,6 @@
     "모두의 인공지능 기초수학/수식작성.md",
     "모두의 인공지능 기초수학/chapter1 방정식과 부등식.md",
     "1일 1로그 100일 완성 IT지식/day1.md",
-    "과학기술정보통신부 블로그/디지털 치료제.md",
-    "과학기술정보통신부 블로그/김제 스마트팜 혁신 밸리.md"
+    "과학기술정보통신부 블로그/디지털 치료제.md"
   ]
 }
