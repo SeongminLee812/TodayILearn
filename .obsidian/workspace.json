@@ -30,9 +30,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d737613c26dc6def",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TIL_python_Tuple.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0d3a46a5dbff8722",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TIL_python_Reguler_Expressions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -82,7 +106,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "8171c1653afb67da",
@@ -98,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "KMOOC_인공지능을위한알고리즘과자료구조/3-2 그래프.md",
+                "file": "TIL_python_Reguler_Expressions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "KMOOC_인공지능을위한알고리즘과자료구조/3-2 그래프.md",
+                "file": "TIL_python_Reguler_Expressions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "KMOOC_인공지능을위한알고리즘과자료구조/3-2 그래프.md"
+                "file": "TIL_python_Reguler_Expressions.md"
               }
             }
           },
@@ -158,17 +183,28 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "1beff1f13f8aec48",
+  "left-ribbon": {
+    "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "0d3a46a5dbff8722",
   "lastOpenFiles": [
+    "TIL_python_Tuple.md",
+    "TIL_python_Set.md",
+    "TIL_python_List.md",
+    "TIL_python_function.md",
+    "TIL_python_Exception.md",
+    "TIL_python_Dictionary.md",
     "SQL/SQL로 맛보는 데이터 전처리 분석.md",
     "SQL/SQL 복습.md",
     "Django/Chapter3.md",
-    "과학기술정보통신부 블로그/마이 데이터.md",
-    "과학기술정보통신부 블로그/SAOT(Semi-Automated Offside Technology).md",
-    "과학기술정보통신부 블로그/전파.md",
-    "모두의 인공지능 기초수학/수식작성.md",
-    "모두의 인공지능 기초수학/chapter1 방정식과 부등식.md",
-    "1일 1로그 100일 완성 IT지식/day1.md",
-    "과학기술정보통신부 블로그/디지털 치료제.md"
+    "과학기술정보통신부 블로그/마이 데이터.md"
   ]
 }
