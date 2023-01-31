@@ -47,11 +47,9 @@
             "id": "0d3a46a5dbff8722",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "TIL_python_Reguler_Expressions.md",
-                "mode": "source",
-                "source": false
+                "file": "스크린샷 2022-10-21 15.04.34.png"
               }
             }
           }
@@ -106,8 +104,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "8171c1653afb67da",
@@ -123,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TIL_python_Reguler_Expressions.md",
+                "file": "스크린샷 2022-10-21 15.04.34.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TIL_python_Reguler_Expressions.md",
+                "file": "스크린샷 2022-10-21 15.04.34.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TIL_python_Reguler_Expressions.md"
+                "file": "스크린샷 2022-10-21 15.04.34.png"
               }
             }
           },
@@ -194,17 +191,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0d3a46a5dbff8722",
+  "active": "c30ba011c7690bc0",
   "lastOpenFiles": [
+    "모두의 인공지능 기초수학/part2미분_chapter9 도함수의활용.md",
+    "모두의 인공지능 기초수학/part2미분_chapter8 다항함수의 미분.md",
+    "모두의 인공지능 기초수학/part2미분_chapter7-2 함수의 극한과 연속.md",
+    "모두의 인공지능 기초수학/chapter4 지수와 제곱근.md",
+    "모두의 인공지능 기초수학/chapter5 다항식과 기하학.md",
+    "모두의 인공지능 기초수학/chapter1 방정식과 부등식.md",
+    "TIL_python_Reguler_Expressions.md",
     "TIL_python_Tuple.md",
     "TIL_python_Set.md",
-    "TIL_python_List.md",
-    "TIL_python_function.md",
-    "TIL_python_Exception.md",
-    "TIL_python_Dictionary.md",
-    "SQL/SQL로 맛보는 데이터 전처리 분석.md",
-    "SQL/SQL 복습.md",
-    "Django/Chapter3.md",
-    "과학기술정보통신부 블로그/마이 데이터.md"
+    "TIL_python_List.md"
   ]
 }
