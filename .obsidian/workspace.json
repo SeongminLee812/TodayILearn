@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SQL/SQL 복습.md",
+                "file": "1일 1로그 100일 완성 IT지식/day1.md",
                 "mode": "source",
                 "source": false
               }
@@ -53,8 +53,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -120,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SQL/SQL 복습.md",
+                "file": "1일 1로그 100일 완성 IT지식/day1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SQL/SQL 복습.md",
+                "file": "1일 1로그 100일 완성 IT지식/day1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SQL/SQL 복습.md"
+                "file": "1일 1로그 100일 완성 IT지식/day1.md"
               }
             }
           },
@@ -191,8 +190,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c30ba011c7690bc0",
+  "active": "b51088839008b434",
   "lastOpenFiles": [
+    "SQL/SQL 복습.md",
     "모두의 인공지능 기초수학/part2미분_chapter9 도함수의활용.md",
     "모두의 인공지능 기초수학/part2미분_chapter8 다항함수의 미분.md",
     "모두의 인공지능 기초수학/part2미분_chapter7-2 함수의 극한과 연속.md",
@@ -201,7 +201,6 @@
     "모두의 인공지능 기초수학/chapter1 방정식과 부등식.md",
     "TIL_python_Reguler_Expressions.md",
     "TIL_python_Tuple.md",
-    "TIL_python_Set.md",
-    "TIL_python_List.md"
+    "TIL_python_Set.md"
   ]
 }
