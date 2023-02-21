@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b51088839008b434",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1일 1로그 100일 완성 IT지식/day1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "1beff1f13f8aec48",
             "type": "leaf",
             "state": {
@@ -119,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1일 1로그 100일 완성 IT지식/day1.md",
+                "file": "KMOOC_인공지능을위한알고리즘과자료구조/3-2 그래프.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1일 1로그 100일 완성 IT지식/day1.md",
+                "file": "KMOOC_인공지능을위한알고리즘과자료구조/3-2 그래프.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1일 1로그 100일 완성 IT지식/day1.md"
+                "file": "KMOOC_인공지능을위한알고리즘과자료구조/3-2 그래프.md"
               }
             }
           },
@@ -190,12 +178,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b51088839008b434",
+  "active": "1beff1f13f8aec48",
   "lastOpenFiles": [
+    "1일 1로그 100일 완성 IT지식/day1.md",
     "스크린샷 2022-10-21 15.04.34.png",
     "TIL_python_Tuple.md",
     "KMOOC_인공지능을위한알고리즘과자료구조/3-2 그래프.md",
-    "1일 1로그 100일 완성 IT지식/day1.md",
     "SQL/SQL 복습.md",
     "모두의 인공지능 기초수학/part2미분_chapter9 도함수의활용.md",
     "모두의 인공지능 기초수학/part2미분_chapter8 다항함수의 미분.md",
