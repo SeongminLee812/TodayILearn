@@ -20,6 +20,16 @@
             }
           },
           {
+            "id": "ba05cf65978d3a5d",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.15"
+              }
+            }
+          },
+          {
             "id": "d737613c26dc6def",
             "type": "leaf",
             "state": {
@@ -180,9 +190,9 @@
   },
   "active": "1beff1f13f8aec48",
   "lastOpenFiles": [
-    "1일 1로그 100일 완성 IT지식/day1.md",
-    "스크린샷 2022-10-21 15.04.34.png",
     "TIL_python_Tuple.md",
+    "스크린샷 2022-10-21 15.04.34.png",
+    "1일 1로그 100일 완성 IT지식/day1.md",
     "KMOOC_인공지능을위한알고리즘과자료구조/3-2 그래프.md",
     "SQL/SQL 복습.md",
     "모두의 인공지능 기초수학/part2미분_chapter9 도함수의활용.md",
