@@ -30,6 +30,16 @@
             }
           },
           {
+            "id": "c8a5efc8ed962722",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.16"
+              }
+            }
+          },
+          {
             "id": "0d3a46a5dbff8722",
             "type": "leaf",
             "state": {
@@ -40,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -177,7 +187,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d737613c26dc6def",
+  "active": "c8a5efc8ed962722",
   "lastOpenFiles": [
     "python 중급/클래스 심화.md",
     "TIL_python_Tuple.md",
