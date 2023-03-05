@@ -52,6 +52,18 @@
             }
           },
           {
+            "id": "5ab901c43f1b7b83",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SQL/GROUP BY.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "0d3a46a5dbff8722",
             "type": "leaf",
             "state": {
@@ -62,7 +74,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -128,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SQL/SELECT.md",
+                "file": "SQL/GROUP BY.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SQL/SELECT.md",
+                "file": "SQL/GROUP BY.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SQL/SELECT.md"
+                "file": "SQL/GROUP BY.md"
               }
             }
           },
@@ -199,9 +211,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "56f6f5a2863d2bab",
+  "active": "5ab901c43f1b7b83",
   "lastOpenFiles": [
     "SQL/SELECT.md",
+    "SQL/GROUP BY.md",
     "Untitled",
     "python 중급/클래스 심화.md",
     "TIL_python_Tuple.md",
