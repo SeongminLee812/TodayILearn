@@ -99,3 +99,9 @@ ORDER BY SUM(amount)
 
 -   집계가 이미 수행된 이후에 자료를 필터링하기때문에 GROUP BY 절 이후에 등장함
 -   WHERE문은 GROUP BY 이전에 수행되기 때문에 집계함수를 사용해서 필터링할 수 없음
+```sql
+SELECT company, SUM(sales)
+FROM finance_table
+GROUP BY
+HAVING SUM(sales) > 1000
+```
