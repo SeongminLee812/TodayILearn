@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -116,6 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "TIL_python_Tuple.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,6 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "TIL_python_Tuple.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +155,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "TIL_python_Tuple.md"
+              }
             }
           },
           {
@@ -183,7 +187,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c8a5efc8ed962722",
+  "active": "d737613c26dc6def",
   "lastOpenFiles": [
     "SQL/SELECT.md",
     "SQL/GROUP BY.md",
