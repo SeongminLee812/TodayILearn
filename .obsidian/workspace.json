@@ -48,6 +48,14 @@
                 "file": "스크린샷 2022-10-21 15.04.34.png"
               }
             }
+          },
+          {
+            "id": "4c1e153b4a40c62d",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
         "currentTab": 1
@@ -188,11 +196,11 @@
   },
   "active": "d737613c26dc6def",
   "lastOpenFiles": [
+    "TIL_python_Tuple.md",
     "SQL/SELECT.md",
     "SQL/GROUP BY.md",
     "Untitled",
     "python 중급/클래스 심화.md",
-    "TIL_python_Tuple.md",
     "python 중급",
     "KMOOC_인공지능을위한알고리즘과자료구조/3-2 그래프.md",
     "스크린샷 2022-10-21 15.04.34.png",
