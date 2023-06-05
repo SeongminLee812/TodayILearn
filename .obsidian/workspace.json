@@ -11,8 +11,12 @@
             "id": "679d05e79cebd1ab",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "KMOOC_인공지능을위한알고리즘과자료구조/11-1 최소신장트리 문제와 프림 알고리즘.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "KMOOC_인공지능을위한알고리즘과자료구조/11-1 최소신장트리 문제와 프림 알고리즘.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "KMOOC_인공지능을위한알고리즘과자료구조/11-1 최소신장트리 문제와 프림 알고리즘.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "KMOOC_인공지능을위한알고리즘과자료구조/11-1 최소신장트리 문제와 프림 알고리즘.md"
+              }
             }
           },
           {
@@ -137,12 +145,12 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -157,20 +165,34 @@
   },
   "active": "679d05e79cebd1ab",
   "lastOpenFiles": [
-    "TIL_python_Tuple.md",
-    "SQL/SELECT.md",
-    "SQL/GROUP BY.md",
-    "Untitled",
-    "python 중급/클래스 심화.md",
-    "python 중급",
+    "KMOOC_인공지능을위한알고리즘과자료구조/10-2 퀵 정렬.md",
+    "KMOOC_인공지능을위한알고리즘과자료구조/10-1 힙정렬.md",
+    "KMOOC_인공지능을위한알고리즘과자료구조/9-1 binary heap.md",
+    "KMOOC_인공지능을위한알고리즘과자료구조/9-2 힙 자료구조의 구현 및 복잡도.md",
+    "KMOOC_인공지능을위한알고리즘과자료구조/7-2 합병 정렬과 재귀적 알고리즘 복잡도 분석.md",
+    "KMOOC_인공지능을위한알고리즘과자료구조/7-1 삽입정렬알고리즘.md",
+    "KMOOC_인공지능을위한알고리즘과자료구조/6-2 알고리즘 복잡도 분석.md",
+    "KMOOC_인공지능을위한알고리즘과자료구조/6-1 코드 블록 단위의 복잡도 분석.md",
+    "KMOOC_인공지능을위한알고리즘과자료구조/5-2 심볼 기반 함수의 점근적 바운드.md",
+    "KMOOC_인공지능을위한알고리즘과자료구조/5-1 함수의 점근적 분석법.md",
+    "KMOOC_인공지능을위한알고리즘과자료구조/4-2 그래프 탐색의 STL활용 구현.md",
+    "KMOOC_인공지능을위한알고리즘과자료구조/4-1 그래프탐색_DFS와 BFS.md",
     "KMOOC_인공지능을위한알고리즘과자료구조/3-2 그래프.md",
-    "스크린샷 2022-10-21 15.04.34.png",
-    "1일 1로그 100일 완성 IT지식/day1.md",
-    "SQL/SQL 복습.md",
-    "모두의 인공지능 기초수학/part2미분_chapter9 도함수의활용.md",
+    "KMOOC_인공지능을위한알고리즘과자료구조/3-1 트리자료구조.md",
+    "KMOOC_인공지능을위한알고리즘과자료구조/2-2 스택과 큐.md",
+    "KMOOC_인공지능을위한알고리즘과자료구조/2-1 배열과 리스트.md",
+    "KMOOC_인공지능을위한알고리즘과자료구조/1-2 강좌의 목표와 실습환경.md",
+    "KMOOC_인공지능을위한알고리즘과자료구조/1-1 자료구조알고리즘의 정의 및 강좌소개.md",
+    "멘토링 미니세미나 메모.md",
     "모두의 인공지능 기초수학/part2미분_chapter8 다항함수의 미분.md",
     "모두의 인공지능 기초수학/part2미분_chapter7-2 함수의 극한과 연속.md",
-    "모두의 인공지능 기초수학/chapter4 지수와 제곱근.md",
-    "모두의 인공지능 기초수학/chapter5 다항식과 기하학.md"
+    "모두의 인공지능 기초수학/part2미분_chapter7-1 함수의 극한과 연속.md",
+    "모두의 인공지능 기초수학/part4확률과통계_chapter13 순열과 조합.md",
+    "모두의 인공지능 기초수학/part4확률과통계_chapter15-1 통계.md",
+    "TIL_python_Tuple.md",
+    "SQL/SELECT.md",
+    "Untitled",
+    "python 중급",
+    "스크린샷 2022-10-21 15.04.34.png"
   ]
 }
