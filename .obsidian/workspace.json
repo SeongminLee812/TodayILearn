@@ -4,61 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "89da3ede3443792e",
+        "id": "0dea5ee98cee408a",
         "type": "tabs",
         "children": [
           {
-            "id": "ba05cf65978d3a5d",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.1.15"
-              }
-            }
-          },
-          {
-            "id": "d737613c26dc6def",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TIL_python_Tuple.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c8a5efc8ed962722",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.1.16"
-              }
-            }
-          },
-          {
-            "id": "0d3a46a5dbff8722",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "스크린샷 2022-10-21 15.04.34.png"
-              }
-            }
-          },
-          {
-            "id": "4c1e153b4a40c62d",
+            "id": "679d05e79cebd1ab",
             "type": "leaf",
             "state": {
               "type": "empty",
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -103,6 +60,14 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "db466defb6bb9159",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -124,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TIL_python_Tuple.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TIL_python_Tuple.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "TIL_python_Tuple.md"
-              }
+              "state": {}
             }
           },
           {
@@ -185,16 +146,16 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d737613c26dc6def",
+  "active": "679d05e79cebd1ab",
   "lastOpenFiles": [
     "TIL_python_Tuple.md",
     "SQL/SELECT.md",
