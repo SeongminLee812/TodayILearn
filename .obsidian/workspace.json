@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "모두의 인공지능 기초수학/part3선형대수_chapter10-4 벡터와 공간.md",
+                "file": "모두의 인공지능 기초수학/part3선형대수_chapter12 상호좌표계.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "모두의 인공지능 기초수학/part3선형대수_chapter10-4 벡터와 공간.md",
+                "file": "모두의 인공지능 기초수학/part3선형대수_chapter12 상호좌표계.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "모두의 인공지능 기초수학/part3선형대수_chapter10-4 벡터와 공간.md",
+                "file": "모두의 인공지능 기초수학/part3선형대수_chapter12 상호좌표계.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "모두의 인공지능 기초수학/part3선형대수_chapter10-4 벡터와 공간.md"
+                "file": "모두의 인공지능 기초수학/part3선형대수_chapter12 상호좌표계.md"
               }
             }
           },
@@ -165,6 +165,9 @@
   },
   "active": "679d05e79cebd1ab",
   "lastOpenFiles": [
+    "모두의 인공지능 기초수학/part3선형대수_chapter11-2행렬변환.md",
+    "모두의 인공지능 기초수학/part3선형대수_chapter11-1행렬변환.md",
+    "모두의 인공지능 기초수학/part3선형대수_chapter10-4 벡터와 공간.md",
     "모두의 인공지능 기초수학/part3선형대수_chapter10-3 벡터와 공간.md",
     "모두의 인공지능 기초수학/part3선형대수_chapter10-2 벡터와 공간.md",
     "모두의 인공지능 기초수학/part3선형대수_chapter10 벡터와 공간.md",
@@ -188,9 +191,6 @@
     "KMOOC_인공지능을위한알고리즘과자료구조/7-1 삽입정렬알고리즘.md",
     "KMOOC_인공지능을위한알고리즘과자료구조/6-2 알고리즘 복잡도 분석.md",
     "KMOOC_인공지능을위한알고리즘과자료구조/6-1 코드 블록 단위의 복잡도 분석.md",
-    "KMOOC_인공지능을위한알고리즘과자료구조/5-2 심볼 기반 함수의 점근적 바운드.md",
-    "KMOOC_인공지능을위한알고리즘과자료구조/5-1 함수의 점근적 분석법.md",
-    "KMOOC_인공지능을위한알고리즘과자료구조/4-2 그래프 탐색의 STL활용 구현.md",
     "Untitled",
     "python 중급",
     "스크린샷 2022-10-21 15.04.34.png"

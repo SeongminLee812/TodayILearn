@@ -4,7 +4,7 @@
 $A \overrightarrow{x}=\lambda \overrightarrow x (\lambda 는 상수)$
 $\lambda$를 고유값이라고 하고, $x$를 고유벡터라 한다.
 ![[스크린샷 2022-10-21 15.00.40.png]]
-A : 정방행렬(행의 개수와 열의 개수가 같음)    $\lambda$를 고유값, $x$를 고유벡터
+A : 정방행렬(행의 개수와 열의 개수가 같음)   $\lambda$를 고유값, $x$를 고유벡터
 
 __고유벡터, 고유값 예시__
 ![[Pasted image 20221021150300.png]]
