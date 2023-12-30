@@ -11,12 +11,8 @@
             "id": "679d05e79cebd1ab",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "KMOOC_인공지능을위한알고리즘과자료구조/2-1 배열과 리스트.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -93,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "KMOOC_인공지능을위한알고리즘과자료구조/2-1 배열과 리스트.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "KMOOC_인공지능을위한알고리즘과자료구조/2-1 배열과 리스트.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "KMOOC_인공지능을위한알고리즘과자료구조/2-1 배열과 리스트.md"
-              }
+              "state": {}
             }
           },
           {
@@ -165,6 +157,10 @@
   },
   "active": "679d05e79cebd1ab",
   "lastOpenFiles": [
+    "KMOOC_인공지능을위한알고리즘과자료구조/2-1 배열과 리스트.md",
+    "채용/Untitled.md",
+    "채용/Untitled",
+    "채용",
     "KMOOC_인공지능을위한알고리즘과자료구조/15-2 행렬 체인 곱셈 문제의 동적계획법 기반 해결.md",
     "KMOOC_인공지능을위한알고리즘과자료구조/15-1 동적계획법의 방법론 이해.md",
     "KMOOC_인공지능을위한알고리즘과자료구조/14-2 임계경로.md",
@@ -189,9 +185,6 @@
     "KMOOC_인공지능을위한알고리즘과자료구조/4-1 그래프탐색_DFS와 BFS.md",
     "KMOOC_인공지능을위한알고리즘과자료구조/3-2 그래프.md",
     "KMOOC_인공지능을위한알고리즘과자료구조/3-1 트리자료구조.md",
-    "KMOOC_인공지능을위한알고리즘과자료구조/2-2 스택과 큐.md",
-    "KMOOC_인공지능을위한알고리즘과자료구조/2-1 배열과 리스트.md",
-    "Untitled",
     "python 중급",
     "스크린샷 2022-10-21 15.04.34.png"
   ]
