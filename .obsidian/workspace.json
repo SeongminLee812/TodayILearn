@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3b8e46db7436137f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "KMOOC_인공지능을위한알고리즘과자료구조/table_temp.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -77,7 +90,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "8171c1653afb67da",
@@ -93,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "KMOOC_인공지능을위한알고리즘과자료구조/1-1 자료구조알고리즘의 정의 및 강좌소개.md",
+                "file": "KMOOC_인공지능을위한알고리즘과자료구조/table_temp.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "KMOOC_인공지능을위한알고리즘과자료구조/1-1 자료구조알고리즘의 정의 및 강좌소개.md",
+                "file": "KMOOC_인공지능을위한알고리즘과자료구조/table_temp.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "KMOOC_인공지능을위한알고리즘과자료구조/1-1 자료구조알고리즘의 정의 및 강좌소개.md"
+                "file": "KMOOC_인공지능을위한알고리즘과자료구조/table_temp.md"
               }
             }
           },
@@ -163,8 +177,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "679d05e79cebd1ab",
+  "active": "3b8e46db7436137f",
   "lastOpenFiles": [
+    "KMOOC_인공지능을위한알고리즘과자료구조/1-1 자료구조알고리즘의 정의 및 강좌소개.md",
+    "KMOOC_인공지능을위한알고리즘과자료구조/table_temp.md",
     "머신러닝 알고리즘.md",
     "Django/Chapter1.md",
     "Computer_Vision/01_CNN(이수안컴퓨터연구소).md",
@@ -191,8 +207,6 @@
     "KMOOC_인공지능을위한알고리즘과자료구조/9-2 힙 자료구조의 구현 및 복잡도.md",
     "KMOOC_인공지능을위한알고리즘과자료구조/9-1 binary heap.md",
     "KMOOC_인공지능을위한알고리즘과자료구조/7-2 합병 정렬과 재귀적 알고리즘 복잡도 분석.md",
-    "KMOOC_인공지능을위한알고리즘과자료구조/7-1 삽입정렬알고리즘.md",
-    "KMOOC_인공지능을위한알고리즘과자료구조/6-2 알고리즘 복잡도 분석.md",
     "python 중급",
     "스크린샷 2022-10-21 15.04.34.png"
   ]
