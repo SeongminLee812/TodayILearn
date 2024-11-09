@@ -25,24 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KMOOC_인공지능을위한알고리즘과자료구조/table_temp.md",
+                "file": "KMOOC_인공지능을위한알고리즘과자료구조/Problemset2_2023181795_이성민.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "9aafd3c4b0521170",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.8"
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -117,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "KMOOC_인공지능을위한알고리즘과자료구조/table_temp.md",
+                "file": "KMOOC_인공지능을위한알고리즘과자료구조/Problemset2_2023181795_이성민.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "KMOOC_인공지능을위한알고리즘과자료구조/table_temp.md",
+                "file": "KMOOC_인공지능을위한알고리즘과자료구조/Problemset2_2023181795_이성민.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "KMOOC_인공지능을위한알고리즘과자료구조/table_temp.md"
+                "file": "KMOOC_인공지능을위한알고리즘과자료구조/Problemset2_2023181795_이성민.md"
               }
             }
           },
@@ -187,10 +177,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9aafd3c4b0521170",
+  "active": "3b8e46db7436137f",
   "lastOpenFiles": [
+    "KMOOC_인공지능을위한알고리즘과자료구조/attachment/feature_importance_breast_cancer 1.png",
+    "KMOOC_인공지능을위한알고리즘과자료구조/attachment/Pasted image 20241109205940.png",
+    "KMOOC_인공지능을위한알고리즘과자료구조/attachment/feature_importance_breast_cancer.png",
     "KMOOC_인공지능을위한알고리즘과자료구조/1-1 자료구조알고리즘의 정의 및 강좌소개.md",
-    "KMOOC_인공지능을위한알고리즘과자료구조/table_temp.md",
+    "KMOOC_인공지능을위한알고리즘과자료구조/Problemset2_2023181795_이성민.md",
     "머신러닝 알고리즘.md",
     "Django/Chapter1.md",
     "Computer_Vision/01_CNN(이수안컴퓨터연구소).md",
@@ -216,7 +209,6 @@
     "KMOOC_인공지능을위한알고리즘과자료구조/10-1 힙정렬.md",
     "KMOOC_인공지능을위한알고리즘과자료구조/9-2 힙 자료구조의 구현 및 복잡도.md",
     "KMOOC_인공지능을위한알고리즘과자료구조/9-1 binary heap.md",
-    "KMOOC_인공지능을위한알고리즘과자료구조/7-2 합병 정렬과 재귀적 알고리즘 복잡도 분석.md",
     "python 중급",
     "스크린샷 2022-10-21 15.04.34.png"
   ]
