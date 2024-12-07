@@ -4,5 +4,11 @@
   "userIgnoreFilters": [
     "모두의 인공지능 기초수학/"
   ],
-  "promptDelete": false
+  "promptDelete": false,
+  "pdfExportSettings": {
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
 }

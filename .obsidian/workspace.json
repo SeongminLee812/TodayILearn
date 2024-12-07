@@ -16,7 +16,9 @@
                 "file": "KMOOC_인공지능을위한알고리즘과자료구조/1-1 자료구조알고리즘의 정의 및 강좌소개.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "1-1 자료구조알고리즘의 정의 및 강좌소개"
             }
           },
           {
@@ -28,7 +30,9 @@
                 "file": "KMOOC_인공지능을위한알고리즘과자료구조/Problemset2_2023181795_이성민.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Problemset2_2023181795_이성민"
             }
           }
         ],
@@ -52,7 +56,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -67,7 +73,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -75,7 +83,9 @@
             "type": "leaf",
             "state": {
               "type": "starred",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -83,7 +93,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -115,7 +127,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Problemset2_2023181795_이성민"
             }
           },
           {
@@ -127,7 +141,9 @@
                 "file": "KMOOC_인공지능을위한알고리즘과자료구조/Problemset2_2023181795_이성민.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Problemset2_2023181795_이성민"
             }
           },
           {
@@ -138,7 +154,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -148,7 +166,9 @@
               "type": "outline",
               "state": {
                 "file": "KMOOC_인공지능을위한알고리즘과자료구조/Problemset2_2023181795_이성민.md"
-              }
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Problemset2_2023181795_이성민"
             }
           },
           {
@@ -156,7 +176,9 @@
             "type": "leaf",
             "state": {
               "type": "advanced-tables-toolbar",
-              "state": {}
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           }
         ]
@@ -179,11 +201,19 @@
   },
   "active": "3b8e46db7436137f",
   "lastOpenFiles": [
+    "KMOOC_인공지능을위한알고리즘과자료구조/attachment/gp_regression_confidence_interval.png",
+    "KMOOC_인공지능을위한알고리즘과자료구조/attachment/gp_rbf_kernel_samples.png",
+    "KMOOC_인공지능을위한알고리즘과자료구조/attachment/gp_linear_kernel_samples.png",
+    "KMOOC_인공지능을위한알고리즘과자료구조/attachment/gp_constant_kernel_samples.png",
+    "KMOOC_인공지능을위한알고리즘과자료구조/path_to_your_pca_image.md",
+    "KMOOC_인공지능을위한알고리즘과자료구조/Problemset2_2023181795_이성민.md",
+    "KMOOC_인공지능을위한알고리즘과자료구조/path_to_your_fda_image.md",
+    "KMOOC_인공지능을위한알고리즘과자료구조/attachment/fda_projection_mnist.png",
+    "KMOOC_인공지능을위한알고리즘과자료구조/attachment/pca_projection_mnist.png",
     "KMOOC_인공지능을위한알고리즘과자료구조/attachment/feature_importance_breast_cancer 1.png",
     "KMOOC_인공지능을위한알고리즘과자료구조/attachment/Pasted image 20241109205940.png",
     "KMOOC_인공지능을위한알고리즘과자료구조/attachment/feature_importance_breast_cancer.png",
     "KMOOC_인공지능을위한알고리즘과자료구조/1-1 자료구조알고리즘의 정의 및 강좌소개.md",
-    "KMOOC_인공지능을위한알고리즘과자료구조/Problemset2_2023181795_이성민.md",
     "머신러닝 알고리즘.md",
     "Django/Chapter1.md",
     "Computer_Vision/01_CNN(이수안컴퓨터연구소).md",
@@ -207,8 +237,6 @@
     "KMOOC_인공지능을위한알고리즘과자료구조/11-1 최소신장트리 문제와 프림 알고리즘.md",
     "KMOOC_인공지능을위한알고리즘과자료구조/10-2 퀵 정렬.md",
     "KMOOC_인공지능을위한알고리즘과자료구조/10-1 힙정렬.md",
-    "KMOOC_인공지능을위한알고리즘과자료구조/9-2 힙 자료구조의 구현 및 복잡도.md",
-    "KMOOC_인공지능을위한알고리즘과자료구조/9-1 binary heap.md",
     "python 중급",
     "스크린샷 2022-10-21 15.04.34.png"
   ]
